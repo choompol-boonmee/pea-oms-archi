@@ -2177,9 +2177,9 @@ Management) ของ กฟภ.</documentation>
       <documentation>6. แผนกส่งเสริมพลังงานทดแทนและอนุรักษ์พลังงาน</documentation>
     </element>
     <element xsi:type="archimate:BusinessActor" name="กองวิศวกรรมและวางแผน" id="id-670ea537464b4a00b76c5babfcc47d35"/>
-    <element xsi:type="archimate:BusinessActor" name="1. กองปฏิบัติการ" id="id-d7e69b44fac649139efc5848e50ca299"/>
-    <element xsi:type="archimate:BusinessActor" name="2. กองบำรุงรักษา" id="id-715636dcfbad4c36b5c80d4db251518b"/>
-    <element xsi:type="archimate:BusinessActor" name="3. กองระบบสื่อสาร" id="id-bcfd8c8ced6b41dc934a13cb05be910d"/>
+    <element xsi:type="archimate:BusinessActor" name="กองปฏิบัติการ" id="id-d7e69b44fac649139efc5848e50ca299"/>
+    <element xsi:type="archimate:BusinessActor" name="กองบำรุงรักษา" id="id-715636dcfbad4c36b5c80d4db251518b"/>
+    <element xsi:type="archimate:BusinessActor" name="กองระบบสื่อสาร" id="id-bcfd8c8ced6b41dc934a13cb05be910d"/>
     <element xsi:type="archimate:BusinessActor" name="1. แผนกควบคุมการจ่ายไฟ" id="id-b4132aca653344d6bdc9639fd22b1204"/>
     <element xsi:type="archimate:BusinessActor" name="2. แผนกวิเคราะห์และวางแผนการจ่ายไฟ" id="id-153f39b744194d25b9e8c168dcc7ca08"/>
     <element xsi:type="archimate:BusinessActor" name="3. แผนกระบบควบคุมศูนย์สั่งการ" id="id-d4a04628e43f4186add67514edd0e078">
@@ -2335,6 +2335,311 @@ Loss)</documentation>
     <element xsi:type="archimate:BusinessObject" name="8. ติดตาม เฝ้ามองระบบแจ้งเตือนภัยผู้บุกรุกและระบบแจ้งเตือนอัคคีภัย ภายในสถานีไฟฟ้า" id="id-f2b29200013b4510a9689cc76afddb99">
       <documentation>8. ติดตาม เฝ้ามองระบบแจ้งเตือนภัยผู้บุกรุกและระบบแจ้งเตือนอัคคีภัย ภายในสถานี&#xD;
 ไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="JD - แผนกปฏิบัติการ กฟฟ8" id="id-8a4b57f463164faaa47abadaa9113efa"/>
+    <element xsi:type="archimate:BusinessObject" name="1.จัดทำแผนงานปรับปรุงระบบไฟฟ้า สำรวจ ออกแบบ ประมาณการค่าใช้จ่ายงานก่อสร้างปรับปรุง ซ่อมแซมบำรุงรักษาระบบไฟฟ้า สำหรับงานปรับปรุงเพิ่มประสิทธิภาพ และงานย้ายแนว ระบบจำหน่ายฯ" id="id-6970a45436954110b8efbc0d7ae86d86">
+      <documentation>1.จัดทำแผนงานปรับปรุงระบบไฟฟ้า สำรวจ ออกแบบ ประมาณการค่าใช้จ่ายงานก่อสร้าง&#xD;
+ปรับปรุง ซ่อมแซมบำรุงรักษาระบบไฟฟ้า สำหรับงานปรับปรุงเพิ่มประสิทธิภาพ และงาน&#xD;
+ย้ายแนว ระบบจำหน่ายฯ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.ควบคุมการปฏิบัติงานฮอทไลน์ แก้ไขปัญหาการจ่ายไฟฟ้า กรณีฉุกเฉิน การติดตั้งซ่อมแซม บำรุงรักษาระบบไฟฟ้าโดยไม่ดับไฟ และการควบคุม ดูแล บำรุงรักษาเครื่องมือฮอทไลน" id="id-5865f48ee3cd4a41b40317c88d0506ec">
+      <documentation>4.ควบคุมการปฏิบัติงานฮอทไลน์ แก้ไขปัญหาการจ่ายไฟฟ้า กรณีฉุกเฉิน การติดตั้ง&#xD;
+ซ่อมแซม บำรุงรักษาระบบไฟฟ้าโดยไม่ดับไฟ และการควบคุม ดูแล บำรุงรักษาเครื่องมือ&#xD;
+ฮอทไลน</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="7.ตรวจสอบมาตรฐานการก่อสร้างระบบไฟฟ้า" id="id-efe6aea293dd44d2ae3b48fe64aaf90a">
+      <documentation>7.ตรวจสอบมาตรฐานการก่อสร้างระบบไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="3.ดำเนินการวางแผนงบลงทุนประจำปี และของบค่าใช้จ่าย ก่อสร้างปรับปรุงเพิ่ม" id="id-50c2c4062c5146cc96debf6a9949f164">
+      <documentation>3.ดำเนินการวางแผนงบลงทุนประจำปี และของบค่าใช้จ่าย ก่อสร้างปรับปรุงเพิ่ม&#xD;
+ประสิทธิภาพและงานย้ายแนวระบบจำหน่ายฯตลอดจนการปิดงานก่อสร้างทางเทคนิค (TECO)และสรุปรายงานผลการดำเนินงาน จัดทำแผนความต้องการพัสดุประจำปี&#xD;
+(Dummy Project) สำหรับงานก่อสร้างฯตามงบงาน/โครงการฯที่รับผิดชอบ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="5.สำรวจดูแลความมั่นคงระบบจำหน่าย สายส่ง และตรวจสอบระดับแรงดันไฟฟ้าให้ได้ตามมาตรฐานการจ่ายไฟ และ ตรวจสอบดูแลความต้องการใช้ไฟฟ้า" id="id-c227fb4d133242fbb5fef665ca413da7">
+      <documentation>5.สำรวจดูแลความมั่นคงระบบจำหน่าย สายส่ง และตรวจสอบระดับแรงดันไฟฟ้าให้ได้ตาม&#xD;
+มาตรฐานการจ่ายไฟ และ ตรวจสอบดูแลความต้องการใช้ไฟฟ้า&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="2.ประเมินค่าเสียหายกรณีละเมิด ทำให้ระบบไฟฟ้าของ กฟภ. เสียหาย" id="id-6160bc9a4c3e40b2acd30dd4393c06cb">
+      <documentation>2.ประเมินค่าเสียหายกรณีละเมิด ทำให้ระบบไฟฟ้าของ กฟภ. เสียหาย</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="6. ให้บริการหลังการขายอื่น ๆ สำหรับลูกค้าเช่น การให้เช่าเครื่องกำเนิดไฟฟ้า บริการให้เช่าฉนวนครอบสายไฟฟ้า ต่อกลับการใช้ไฟฟ้าจากการถูกงดจ่ายไฟ(นอกเวลาราชการ)บำรุงรักษาระบบไฟฟ้า" id="id-5a18df8bddf04dc6b47922fa45b9c9b5">
+      <documentation>6. ให้บริการหลังการขายอื่น ๆ สำหรับลูกค้าเช่น การให้เช่าเครื่องกำเนิดไฟฟ้า บริการให้&#xD;
+เช่าฉนวนครอบสายไฟฟ้า ต่อกลับการใช้ไฟฟ้าจากการถูกงดจ่ายไฟ(นอกเวลาราชการ)&#xD;
+บำรุงรักษาระบบไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="8.ติดตั้งเครื่องกำเนิดไฟฟ้าสำรองในงานพิธีและกรณีต่าง ๆ และวิเคราะห์ประสิทธิภาพการเดินเครื่องกำเนิดไฟฟ้า ตลอดจนการควบคุมดูแลบำรุงรักษาเครื่องกำเนิดไฟฟ้าสำรองและระบบผลิต" id="id-1daa9ded98ee46249bab4ed6cc6d87c6">
+      <documentation>8.ติดตั้งเครื่องกำเนิดไฟฟ้าสำรองในงานพิธีและกรณีต่าง ๆ และวิเคราะห์ประสิทธิภาพการ&#xD;
+เดินเครื่องกำเนิดไฟฟ้า ตลอดจนการควบคุมดูแลบำรุงรักษาเครื่องกำเนิดไฟฟ้าสำรองและ&#xD;
+ระบบผลิต</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="9.ควบคุมระบบดัชนีหม้อแปลง จัดทำความต้องการหม้อแปลง คาปาซิเตอร์ (งบลงทุนและงบทำการ กรณีแทนชำรุดให้จัดทำใบขอเสนอซื้อ PR)" id="id-7dbfe470b15a446cb1c372758e452be6">
+      <documentation>9.ควบคุมระบบดัชนีหม้อแปลง จัดทำความต้องการหม้อแปลง คาปาซิเตอร์ (งบลงทุนและงบ&#xD;
+ทำการ กรณีแทนชำรุดให้จัดทำใบขอเสนอซื้อ PR)</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="12.สร้าง/ปรับปรุง และบันทึกข้อมูลระบบไฟฟ้าโดยใช้ Application ระบบ GIS และ Postข้อมูล GIS (Attribute) ที่ปรับปรุงแล้วเช้าสู่ฐานข้อมูลระบบ GIS และการวิเคราะห์ติดตามประเมินผล การสร้าง/ปรับปรุงและบันทึก ฐานข้อมูลระบบ GIS" id="id-9412f64b2c7541859ff33199b24d38e7">
+      <documentation>12.สร้าง/ปรับปรุง และบันทึกข้อมูลระบบไฟฟ้าโดยใช้ Application ระบบ GIS และ Post&#xD;
+ข้อมูล GIS (Attribute) ที่ปรับปรุงแล้วเช้าสู่ฐานข้อมูลระบบ GIS และการวิเคราะห์ติดตาม&#xD;
+ประเมินผล การสร้าง/ปรับปรุงและบันทึก ฐานข้อมูลระบบ GIS</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="15.จัดการอยู่เวร รับแจ้งและสั่งการ และดำเนินการแก้ไขกระแสไฟฟ้า(ในลักษณะการอยู่เวรตามคำสั่ง ส.14หรือแบบกะ) พร้อมจัดทำใบรายการเรียกเก็บ ออกใบแจ้งหนี้ กรณีที่ไปดำเนินการแก้ไขกระแสไฟฟ้าขัดข้องหลังมิเตอร์ของผู้ใช้ไฟ" id="id-75b787219979485192181ff6ce325000">
+      <documentation>15.จัดการอยู่เวร รับแจ้งและสั่งการ และดำเนินการแก้ไขกระแสไฟฟ้า(ในลักษณะการอยู่&#xD;
+เวรตามคำสั่ง ส.14หรือแบบกะ) พร้อมจัดทำใบรายการเรียกเก็บ ออกใบแจ้งหนี้ กรณีที่ไป&#xD;
+ดำเนินการแก้ไขกระแสไฟฟ้าขัดข้องหลังมิเตอร์ของผู้ใช้ไฟ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="11.การสร้าง/แก้ไข/ปรับปรุง ฐานข้อมูลสินทรัพย์อุปกรณ์ไฟฟ้า (ADS)" id="id-3c1d41bd2cd143cd961e2fb62a299e07">
+      <documentation>11.การสร้าง/แก้ไข/ปรับปรุง ฐานข้อมูลสินทรัพย์อุปกรณ์ไฟฟ้า (ADS)</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="13.ควบคุมดูแลระบบสื่อสารของ กฟภ. การอนุญาตการตรวจนับ การพาดสายสื่อสารโทรคมนาคมกับเสาไฟฟ้าของ กฟภ. และสำรวจ ออกแบบ ประมาณการค่าใช้จ่ายปรับปรุงระบบไฟฟ้าให้รองรับการพาดสายสื่อสารโทรคมนาคม" id="id-ce447f15ea254a4cb08749e01758c938">
+      <documentation>13.ควบคุมดูแลระบบสื่อสารของ กฟภ. การอนุญาตการตรวจนับ การพาดสายสื่อสาร&#xD;
+โทรคมนาคมกับเสาไฟฟ้าของ กฟภ. และสำรวจ ออกแบบ ประมาณการค่าใช้จ่ายปรับปรุง&#xD;
+ระบบไฟฟ้าให้รองรับการพาดสายสื่อสารโทรคมนาคม</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัดโหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด" id="id-ab1e21e1d734428baf2896e623fc3d9f">
+      <documentation>10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัด&#xD;
+โหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของ&#xD;
+ผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="14. งานตามที่ผู้บังคับบัญชามอบหมาย" id="id-2c7e4fa823c0413e952550177a940874">
+      <documentation>14. งานตามที่ผู้บังคับบัญชามอบหมาย</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="16.จัดทำฐานข้อมูล ควบคุมและประสานงาน การจ่ายไฟฟ้า และรวบรวมข้อมูลสถิติไฟฟ้าขัดข้อง ประเมินค่าดัชนีความเชื่อถือได้" id="id-41289ff8baa149c2b3260e9a031650a5">
+      <documentation>16.จัดทำฐานข้อมูล ควบคุมและประสานงาน การจ่ายไฟฟ้า และรวบรวมข้อมูลสถิติไฟฟ้า&#xD;
+ขัดข้อง ประเมินค่าดัชนีความเชื่อถือได้&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="17. วางแผนการจ่ายไฟฟ้า จัดทำ Single Line Diagram, Switching Diagramวิเคราะห์ปัญหาเกี่ยวกับการจ่ายไฟฟ้าและเสนอแนวทางการแก้ไข" id="id-17289dbdbb6d46f3a6a66f506b178555">
+      <documentation>17. วางแผนการจ่ายไฟฟ้า จัดทำ Single Line Diagram, Switching Diagramวิเคราะห์&#xD;
+ปัญหาเกี่ยวกับการจ่ายไฟฟ้าและเสนอแนวทางการแก้ไข</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="20.วางแผนตรวจสอบบำรุงรักษาระบบไฟฟ้าและดำเนินการซ่อมบำรุงรักษา ตรวจสอบบำรุงรักษาสายสื่อสาร Fiber Optic ของ กฟภ." id="id-aebce68a0371494480fb0c4e80af37ee">
+      <documentation>20.วางแผนตรวจสอบบำรุงรักษาระบบไฟฟ้าและดำเนินการซ่อมบำรุงรักษา ตรวจสอบ&#xD;
+บำรุงรักษาสายสื่อสาร Fiber Optic ของ กฟภ.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="23.ทบทวนความต้องการใช้พัสดุสำรองคลังฯงานแก้กระแสไฟฟ้าขัดข้องและเบิก - จ่ายพัสดุงานแก้กระแสไฟฟ้าขัดข้อง" id="id-785b0ea2d1b045eb879aaae737e4af3b">
+      <documentation>23.ทบทวนความต้องการใช้พัสดุสำรองคลังฯงานแก้กระแสไฟฟ้าขัดข้องและเบิก - จ่าย&#xD;
+พัสดุงานแก้กระแสไฟฟ้าขัดข้อง</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="19. สำรวจ ออกแบบ ติดตั้งอุปกรณ์ป้องกันตัดตอน/คาปาซิเตอร์แรงสูง ตรวจสอบติดตามLine Coordination การวิเคราะห์Load Flowฯ และการวิเคราะห์หน่วยสูญเสียในระบบไฟฟ้า" id="id-e45f9ee8b0264292badd18938ff92276">
+      <documentation>19. สำรวจ ออกแบบ ติดตั้งอุปกรณ์ป้องกันตัดตอน/คาปาซิเตอร์แรงสูง ตรวจสอบติดตาม&#xD;
+Line Coordination การวิเคราะห์Load Flowฯ และการวิเคราะห์หน่วยสูญเสียในระบบ&#xD;
+ไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="21.วางแผนและจัดการงานตัดต้นไม้ในระบบสายส่งระบบจำหน่าย และ Cross Country" id="id-54131c7f33554b6d8bf2b6fbe46c57f6">
+      <documentation>21.วางแผนและจัดการงานตัดต้นไม้ในระบบสายส่งระบบจำหน่าย และ Cross Country</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="18.รวบรวมข้อมูลทางเทคนิค คู่มือการใช้งานอุปกรณ์ไฟฟ้า" id="id-6c086debcee44addacd3b402c73cdeec">
+      <documentation>18.รวบรวมข้อมูลทางเทคนิค คู่มือการใช้งานอุปกรณ์ไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="22.ประสานงานหน่วยเกี่ยวข้องในการควบคุมระบบไฟฟ้าสาธารณะ และดำเนินการด้านละเมิดระบบจำหน่ายทุกประเภท" id="id-8c487e619e2540158391279f40ff0bf4">
+      <documentation>22.ประสานงานหน่วยเกี่ยวข้องในการควบคุมระบบไฟฟ้าสาธารณะ และดำเนินการด้าน&#xD;
+ละเมิดระบบจำหน่ายทุกประเภท</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="JD - แผนกคลังพัสดุ" id="id-b430ac9fc73d4f8e801d2878a753f62e"/>
+    <element xsi:type="archimate:BusinessObject" name="1.1) รวบรวมประมาณการความต้องการพัสดุทุกงบ ทุกโครงการ สำหรับแผนจัดหาพัสดุประจำปี ของ กฟฟ.ต่าง ๆ ในสังกัด" id="id-ff95dd836eed428985e363e879ee0d1c">
+      <documentation>1.1) รวบรวมประมาณการความต้องการพัสดุทุกงบ ทุกโครงการ สำหรับแผนจัดหา&#xD;
+พัสดุประจำปี ของ กฟฟ.ต่าง ๆ ในสังกัด</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="1.4) รวบรวมและวิเคราะห์ข้อมูลการรับ - จ่ายพัสดุเข้างานบริการและงานแก้ไขกระแสไฟฟ้าขัดข้อง ด้านDemand และ Supply เพื่อใช้บริหารจัดการจุดสั่งซื้อ(Reorder Point), ปริมาณจุดต่ำสุด (Min.) และสูงสุด (Max.) ของพัสดุแต่ละรายการแบบเติมเต็ม เพื่อขอปรับปรุงทบทวนปริมาณสำรองคลัง" id="id-771462cba73a48baad261bc5aec6b2ac">
+      <documentation>1.4) รวบรวมและวิเคราะห์ข้อมูลการรับ - จ่ายพัสดุเข้างานบริการและงานแก้ไข&#xD;
+กระแสไฟฟ้าขัดข้อง ด้านDemand และ Supply เพื่อใช้บริหารจัดการจุดสั่งซื้อ&#xD;
+(Reorder Point), ปริมาณจุดต่ำสุด (Min.) และสูงสุด (Max.) ของพัสดุแต่ละรายการ&#xD;
+แบบเติมเต็ม เพื่อขอปรับปรุงทบทวนปริมาณสำรองคลัง</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="2.2) บันทึกการโอนพัสดุสำรองใช้งานให้กับคลังย่อยในสังกัด และโอนพัสดุต่าง กฟฟ.และจ่ายพัสดุเข้างานต่าง ๆ ให้เป็นปัจจุบัน และดำเนินการจำหน่ายพัสดุออกจากบัญชีตามระเบียบ" id="id-f27ff34b980a406a86855fc044d61dea">
+      <documentation>2.2) บันทึกการโอนพัสดุสำรองใช้งานให้กับคลังย่อยในสังกัด และโอนพัสดุต่าง กฟฟ.&#xD;
+และจ่ายพัสดุเข้างานต่าง ๆ ให้เป็นปัจจุบัน และดำเนินการจำหน่ายพัสดุออกจากบัญชี&#xD;
+ตามระเบียบ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="1.3) รวบรวมและวิเคราะห์ข้อมูลความต้องการพัสดุ (Demand) ของงานโครงการตามแผนงานก่อสร้างและงานซ่อมแซมและบำรุงรักษา ทั้งด้าน Demand และ Supply เพื่อพิจารณาจัดทำบันทึกขออนุมัติโอนพัสดุ หรือ จัดทำใบขอเสนอซื้อ (PR) กรณีเกิดสภาวะขาดแคลน" id="id-71ac5b9d0dea49519b9005cb9b240955">
+      <documentation>1.3) รวบรวมและวิเคราะห์ข้อมูลความต้องการพัสดุ (Demand) ของงานโครงการตาม&#xD;
+แผนงานก่อสร้างและงานซ่อมแซมและบำรุงรักษา ทั้งด้าน Demand และ Supply เพื่อ&#xD;
+พิจารณาจัดทำบันทึกขออนุมัติโอนพัสดุ หรือ จัดทำใบขอเสนอซื้อ (PR) กรณีเกิดสภาวะ&#xD;
+ขาดแคลน</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="1.5) งานบันทึกข้อมูลความต้องการพัสดุรายสัปดาห์ ส่ง กคพ.1-4/ผบพ.กฟข." id="id-d38b62d2e6b44a629be293f209b30618">
+      <documentation>1.5) งานบันทึกข้อมูลความต้องการพัสดุรายสัปดาห์ ส่ง กคพ.1-4/ผบพ.กฟข.&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="1.2) จัดทำแผนความต้องการพัสดุ (Demand) รายไตรมาส และปรับปรุงแก้ไขแผนความต้องการพัสดุกรณีความต้องการพัสดุมีการผันแปร จัดส่งให้คณะทำงานบริหารพัสดุ กฟข." id="id-5d81a38970074c51871420904febf1b2">
+      <documentation>1.2) จัดทำแผนความต้องการพัสดุ (Demand) รายไตรมาส และปรับปรุงแก้ไขแผนความ&#xD;
+ต้องการพัสดุกรณีความต้องการพัสดุมีการผันแปร จัดส่งให้คณะทำงานบริหารพัสดุ กฟข.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="2.1) รับพัสดุจากการจัดสรร, จัดซื้อ, เหลือจากงานก่อสร้าง รวมถึงพัสดุรื้อถอน และบันทึกข้อมูลในระบบ, พิมพ์และติดตั้ง Barcode ตามมาตรฐานที่ กฟภ. กำหนด และพิจารณาการจัดวางพัสดุที่ได้รับการจัดสรร และพัสดุที่ได้รับจากการจัดซื้อให้เหมาะสมกับสถานที่ และพัสดุแต่ละประเภท" id="id-69f9a4abf37d460a93b9380ba853c911">
+      <documentation>2.1) รับพัสดุจากการจัดสรร, จัดซื้อ, เหลือจากงานก่อสร้าง รวมถึงพัสดุรื้อถอน และ&#xD;
+บันทึกข้อมูลในระบบ, พิมพ์และติดตั้ง Barcode ตามมาตรฐานที่ กฟภ. กำหนด และ&#xD;
+พิจารณาการจัดวางพัสดุที่ได้รับการจัดสรร และพัสดุที่ได้รับจากการจัดซื้อให้เหมาะสมกับ&#xD;
+สถานที่ และพัสดุแต่ละประเภท</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="2.3) งานควบคุม, ตรวจสอบพัสดุคงคลัง, พัสดุระหว่างทาง (Stock Transport Order)และสนับสนุนการควบคุมพัสดุคงคลัง" id="id-c2f845d8f0934bad8049b740d49cfe0a">
+      <documentation>2.3) งานควบคุม, ตรวจสอบพัสดุคงคลัง, พัสดุระหว่างทาง (Stock Transport Order)&#xD;
+และสนับสนุนการควบคุมพัสดุคงคลัง</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="2.4) วิเคราะห์ข้อมูลและจัดทำรายงานสนับสนุนการตัดสินใจของผู้บริหาร เช่น อัตราหมุนเวียนพัสดุ (Turn Over Ratio) ยอดจ่ายพัสดุแยกตามโครงการ, ยอดจ่ายพัสดุแยกตามสถานที่จัดเก็บ, ยอดจ่ายพัสดุตามแผนงานโครงการ/งานบริการ/งานบำรุงรักษา,พัสดุที่ไม่เคลื่อนไหว (Non Moving) หรือเคลื่อนไหวช้า(Slow Moving), งานนำเสนอเพิ่ม-ลดระดับพัสดุสำรอง (Min-Max) เป็นต้น" id="id-a1837643382b4e148d1cdfaf005223b0">
+      <documentation>2.4) วิเคราะห์ข้อมูลและจัดทำรายงานสนับสนุนการตัดสินใจของผู้บริหาร เช่น อัตรา&#xD;
+หมุนเวียนพัสดุ (Turn Over Ratio) ยอดจ่ายพัสดุแยกตามโครงการ, ยอดจ่ายพัสดุแยก&#xD;
+ตามสถานที่จัดเก็บ, ยอดจ่ายพัสดุตามแผนงานโครงการ/งานบริการ/งานบำรุงรักษา,&#xD;
+พัสดุที่ไม่เคลื่อนไหว (Non Moving) หรือเคลื่อนไหวช้า(Slow Moving), งานนำเสนอ&#xD;
+เพิ่ม-ลดระดับพัสดุสำรอง (Min-Max) เป็นต้น</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัดโหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด (copy)" id="id-d6ab2f7719774f07bbe922bee9545364">
+      <documentation>10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัด&#xD;
+โหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของ&#xD;
+ผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="3.1) จัดทำขออนุมัติในหลักการจัดซื้อพัสดุสำรองคลัง และพัสดุขาดแคลนที่จำเป็นตามหลักเกณฑ์ที่กำหนดภายในวงเงินงบประมาณที่ได้รับ บันทึกข้อมูลใบขอเสนอซื้อ (PR)และแจ้งหน่วยงานที่ทำหน้าที่จัดซื้อดำเนินการ" id="id-415c0d31474f44f280560b2bb045b7d7">
+      <documentation>3.1) จัดทำขออนุมัติในหลักการจัดซื้อพัสดุสำรองคลัง และพัสดุขาดแคลนที่จำเป็นตาม&#xD;
+หลักเกณฑ์ที่กำหนดภายในวงเงินงบประมาณที่ได้รับ บันทึกข้อมูลใบขอเสนอซื้อ (PR)&#xD;
+และแจ้งหน่วยงานที่ทำหน้าที่จัดซื้อดำเนินการ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="3.2) ค้นหาข้อมูลคุณสมบัติเฉพาะพัสดุ (Specification) ที่เป็นปัจจุบัน จากหน่วยงานที่เกี่ยวข้อง" id="id-4507edd326164f45b9c2681d07e37bc1">
+      <documentation>3.2) ค้นหาข้อมูลคุณสมบัติเฉพาะพัสดุ (Specification) ที่เป็นปัจจุบัน จากหน่วยงาน&#xD;
+ที่เกี่ยวข้อง</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="3.3) ค้นหาข้อมูลราคากลาง/ราคาอ้างอิง ที่เป็นปัจจุบัน จากหน่วยงานที่เกี่ยวข้อง" id="id-c22cc06053d841eeaefedad73b8cbab6">
+      <documentation>3.3) ค้นหาข้อมูลราคากลาง/ราคาอ้างอิง ที่เป็นปัจจุบัน จากหน่วยงานที่เกี่ยวข้อง&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.1) งานสอบทานความถูกต้องของข้อมูลการเคลื่อนไหวรับ-จ่ายพัสดุรายวัน" id="id-7f5e2b71016048099e92ca4ff5178c22">
+      <documentation>4.1) งานสอบทานความถูกต้องของข้อมูลการเคลื่อนไหวรับ-จ่ายพัสดุรายวัน</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.2) งานติดตามพัสดุโอนยืมสำหรับงานโครงการ" id="id-f12675f2bafb4c289ce5f27928a2aac5">
+      <documentation>4.2) งานติดตามพัสดุโอนยืมสำหรับงานโครงการ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.3) งานติดตามพัสดุโอนยืมสำหรับงานบริการ/งานบำรุงรักษา" id="id-3c9d61f71a464052a018f525d640de47">
+      <documentation>4.3) งานติดตามพัสดุโอนยืมสำหรับงานบริการ/งานบำรุงรักษา</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.5) งานติดตามพัสดุที่ได้รับอนุมัติให้จัดหา เพื่อคืนพัสดุเติมเต็มระดับ Safety Stock" id="id-d9dc5999e6454f23af9bf909704c4f77">
+      <documentation>4.5) งานติดตามพัสดุที่ได้รับอนุมัติให้จัดหา เพื่อคืนพัสดุเติมเต็มระดับ Safety Stock</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.7) งานติดตามผลต่างจากการตรวจนับพัสดุ" id="id-743dd08e941848deaf9c94dfcf9053df">
+      <documentation>4.7) งานติดตามผลต่างจากการตรวจนับพัสดุ&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.4) ตรวจสอบการยกเลิกรายการรับ-จ่ายพัสดุ ภายใต้สถานที่จัดเก็บทุกแห่งในสังกัด" id="id-4d5fae49464d4a91908e3f2e64209263">
+      <documentation>4.4) ตรวจสอบการยกเลิกรายการรับ-จ่ายพัสดุ ภายใต้สถานที่จัดเก็บทุกแห่งในสังกัด</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.6) ติดตามผลการใช้พัสดุ กรณีฉุกเฉิน ให้ส่วนที่เกี่ยวข้องจัดหาพัสดุคืนคลัง" id="id-7dbf716f6aa24a31abc7297c85bbb770">
+      <documentation>4.6) ติดตามผลการใช้พัสดุ กรณีฉุกเฉิน ให้ส่วนที่เกี่ยวข้องจัดหาพัสดุคืนคลัง&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="JD - แผนกปฏิบัติการ กฟฟ7" id="id-83fcc83e89c84b47b5e5023f2d2da1f8"/>
+    <element xsi:type="archimate:BusinessObject" name="1.จัดทำแผนงานปรับปรุงระบบไฟฟ้า สำรวจ ออกแบบ ประมาณการค่าใช้จ่ายงานก่อสร้างปรับปรุง ซ่อมแซมบำรุงรักษาระบบไฟฟ้า สำหรับงานปรับปรุงเพิ่มประสิทธิภาพ และงานย้ายแนว ระบบจำหน่ายฯ (copy)" id="id-b2d96c8848d1421f9e47ffb5d6b66c91">
+      <documentation>1.จัดทำแผนงานปรับปรุงระบบไฟฟ้า สำรวจ ออกแบบ ประมาณการค่าใช้จ่ายงานก่อสร้าง&#xD;
+ปรับปรุง ซ่อมแซมบำรุงรักษาระบบไฟฟ้า สำหรับงานปรับปรุงเพิ่มประสิทธิภาพ และงาน&#xD;
+ย้ายแนว ระบบจำหน่ายฯ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="4.ควบคุมการปฏิบัติงานฮอทไลน์ แก้ไขปัญหาการจ่ายไฟฟ้า กรณีฉุกเฉิน การติดตั้งซ่อมแซม บำรุงรักษาระบบไฟฟ้าโดยไม่ดับไฟ และการควบคุม ดูแล บำรุงรักษาเครื่องมือฮอทไลน (copy)" id="id-f243f90e062b407e9f7cd2368adcf6a4">
+      <documentation>4.ควบคุมการปฏิบัติงานฮอทไลน์ แก้ไขปัญหาการจ่ายไฟฟ้า กรณีฉุกเฉิน การติดตั้ง&#xD;
+ซ่อมแซม บำรุงรักษาระบบไฟฟ้าโดยไม่ดับไฟ และการควบคุม ดูแล บำรุงรักษาเครื่องมือ&#xD;
+ฮอทไลน</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="8.ตรวจสอบมาตรฐานการก่อสร้างระบบไฟฟ้า (copy)" id="id-804a6bc6c1714a0f8b6a9e7a6952a914">
+      <documentation>8.ตรวจสอบมาตรฐานการก่อสร้างระบบไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="3.ดำเนินการวางแผนงบลงทุนประจำปี และของบค่าใช้จ่าย ก่อสร้างปรับปรุงเพิ่ม (copy)" id="id-57527c23515b48c1a074f790f7a230cf">
+      <documentation>3.ดำเนินการวางแผนงบลงทุนประจำปี และของบค่าใช้จ่าย ก่อสร้างปรับปรุงเพิ่ม&#xD;
+ประสิทธิภาพและงานย้ายแนวระบบจำหน่ายฯตลอดจนการปิดงานก่อสร้างทางเทคนิค (TECO)และสรุปรายงานผลการดำเนินงาน จัดทำแผนความต้องการพัสดุประจำปี&#xD;
+(Dummy Project) สำหรับงานก่อสร้างฯตามงบงาน/โครงการฯที่รับผิดชอบ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="5.สำรวจดูแลความมั่นคงระบบจำหน่าย สายส่ง และตรวจสอบระดับแรงดันไฟฟ้าให้ได้ตามมาตรฐานการจ่ายไฟ และ ตรวจสอบดูแลความต้องการใช้ไฟฟ้า (copy)" id="id-d855ff5efb364899a7a109657d2f7851">
+      <documentation>5.สำรวจดูแลความมั่นคงระบบจำหน่าย สายส่ง และตรวจสอบระดับแรงดันไฟฟ้าให้ได้ตาม&#xD;
+มาตรฐานการจ่ายไฟ และ ตรวจสอบดูแลความต้องการใช้ไฟฟ้า&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="2.ประเมินค่าเสียหายกรณีละเมิด ทำให้ระบบไฟฟ้าของ กฟภ. เสียหาย (copy)" id="id-098b2a67128e41d6bc7dae06c0744b5e">
+      <documentation>2.ประเมินค่าเสียหายกรณีละเมิด ทำให้ระบบไฟฟ้าของ กฟภ. เสียหาย</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="7. ให้บริการหลังการขายอื่น ๆ สำหรับลูกค้าเช่น การให้เช่าเครื่องกำเนิดไฟฟ้า บริการให้เช่าฉนวนครอบสายไฟฟ้า ต่อกลับการใช้ไฟฟ้าจากการถูกงดจ่ายไฟ(นอกเวลาราชการ)บำรุงรักษาระบบไฟฟ้า (copy)" id="id-2dd9563e6cfd4a1f8c205bc6160c1408">
+      <documentation>6. ให้บริการหลังการขายอื่น ๆ สำหรับลูกค้าเช่น การให้เช่าเครื่องกำเนิดไฟฟ้า บริการให้&#xD;
+เช่าฉนวนครอบสายไฟฟ้า ต่อกลับการใช้ไฟฟ้าจากการถูกงดจ่ายไฟ(นอกเวลาราชการ)&#xD;
+บำรุงรักษาระบบไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="9.ติดตั้งเครื่องกำเนิดไฟฟ้าสำรองในงานพิธีและกรณีต่าง ๆ และวิเคราะห์ประสิทธิภาพการเดินเครื่องกำเนิดไฟฟ้า ตลอดจนการควบคุมดูแลบำรุงรักษาเครื่องกำเนิดไฟฟ้าสำรองและระบบผลิต (copy)" id="id-4f03774768b648f6948afd1bcd9dfa6c">
+      <documentation>9.ติดตั้งเครื่องกำเนิดไฟฟ้าสำรองในงานพิธีและกรณีต่าง ๆ และวิเคราะห์ประสิทธิภาพการ&#xD;
+เดินเครื่องกำเนิดไฟฟ้า ตลอดจนการควบคุมดูแลบำรุงรักษาเครื่องกำเนิดไฟฟ้าสำรองและ&#xD;
+ระบบผลิต</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="9.ควบคุมระบบดัชนีหม้อแปลง จัดทำความต้องการหม้อแปลง คาปาซิเตอร์ (งบลงทุนและงบทำการ กรณีแทนชำรุดให้จัดทำใบขอเสนอซื้อ PR) (copy)" id="id-b7fe5d3557a94e62a360902e66078b2e">
+      <documentation>9.ควบคุมระบบดัชนีหม้อแปลง จัดทำความต้องการหม้อแปลง คาปาซิเตอร์ (งบลงทุนและงบ&#xD;
+ทำการ กรณีแทนชำรุดให้จัดทำใบขอเสนอซื้อ PR)</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัดโหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด (copy)" id="id-7836e068f884473c8365a2bd3c11d10c">
+      <documentation>10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัด&#xD;
+โหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของ&#xD;
+ผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="11.การสร้าง/แก้ไข/ปรับปรุง ฐานข้อมูลสินทรัพย์อุปกรณ์ไฟฟ้า (ADS) (copy)" id="id-6bba7d39623a4ace97afb58b2627314b">
+      <documentation>11.การสร้าง/แก้ไข/ปรับปรุง ฐานข้อมูลสินทรัพย์อุปกรณ์ไฟฟ้า (ADS)</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="12.สร้าง/ปรับปรุง และบันทึกข้อมูลระบบไฟฟ้าโดยใช้ Application ระบบ GIS และ Postข้อมูล GIS (Attribute) ที่ปรับปรุงแล้วเช้าสู่ฐานข้อมูลระบบ GIS และการวิเคราะห์ติดตามประเมินผล การสร้าง/ปรับปรุงและบันทึก ฐานข้อมูลระบบ GIS (copy)" id="id-5da89a651f81449e96392e3b83ad49ad">
+      <documentation>12.สร้าง/ปรับปรุง และบันทึกข้อมูลระบบไฟฟ้าโดยใช้ Application ระบบ GIS และ Post&#xD;
+ข้อมูล GIS (Attribute) ที่ปรับปรุงแล้วเช้าสู่ฐานข้อมูลระบบ GIS และการวิเคราะห์ติดตาม&#xD;
+ประเมินผล การสร้าง/ปรับปรุงและบันทึก ฐานข้อมูลระบบ GIS</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="13.ควบคุมดูแลระบบสื่อสารของ กฟภ. การอนุญาตการตรวจนับ การพาดสายสื่อสารโทรคมนาคมกับเสาไฟฟ้าของ กฟภ. และสำรวจ ออกแบบ ประมาณการค่าใช้จ่ายปรับปรุงระบบไฟฟ้าให้รองรับการพาดสายสื่อสารโทรคมนาคม (copy)" id="id-74345bf013e3429b812272eea5e8d217">
+      <documentation>13.ควบคุมดูแลระบบสื่อสารของ กฟภ. การอนุญาตการตรวจนับ การพาดสายสื่อสาร&#xD;
+โทรคมนาคมกับเสาไฟฟ้าของ กฟภ. และสำรวจ ออกแบบ ประมาณการค่าใช้จ่ายปรับปรุง&#xD;
+ระบบไฟฟ้าให้รองรับการพาดสายสื่อสารโทรคมนาคม</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="14. งานตามที่ผู้บังคับบัญชามอบหมาย (copy)" id="id-8ffba20d781d40aebd8f6b60a0037509">
+      <documentation>14. งานตามที่ผู้บังคับบัญชามอบหมาย</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="15.จัดการอยู่เวร รับแจ้งและสั่งการ และดำเนินการแก้ไขกระแสไฟฟ้า(ในลักษณะการอยู่เวรตามคำสั่ง ส.14หรือแบบกะ) พร้อมจัดทำใบรายการเรียกเก็บ ออกใบแจ้งหนี้ กรณีที่ไปดำเนินการแก้ไขกระแสไฟฟ้าขัดข้องหลังมิเตอร์ของผู้ใช้ไฟ (copy)" id="id-f4a846a691964a6ea55938a56bb8db88">
+      <documentation>15.จัดการอยู่เวร รับแจ้งและสั่งการ และดำเนินการแก้ไขกระแสไฟฟ้า(ในลักษณะการอยู่&#xD;
+เวรตามคำสั่ง ส.14หรือแบบกะ) พร้อมจัดทำใบรายการเรียกเก็บ ออกใบแจ้งหนี้ กรณีที่ไป&#xD;
+ดำเนินการแก้ไขกระแสไฟฟ้าขัดข้องหลังมิเตอร์ของผู้ใช้ไฟ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="16.จัดทำฐานข้อมูล ควบคุมและประสานงาน การจ่ายไฟฟ้า และรวบรวมข้อมูลสถิติไฟฟ้าขัดข้อง ประเมินค่าดัชนีความเชื่อถือได้ (copy)" id="id-186d074e1af745d18f49c40836e49493">
+      <documentation>16.จัดทำฐานข้อมูล ควบคุมและประสานงาน การจ่ายไฟฟ้า และรวบรวมข้อมูลสถิติไฟฟ้า&#xD;
+ขัดข้อง ประเมินค่าดัชนีความเชื่อถือได้&#xD;
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="22.ประสานงานหน่วยเกี่ยวข้องในการควบคุมระบบไฟฟ้าสาธารณะ และดำเนินการด้านละเมิดระบบจำหน่ายทุกประเภท (copy)" id="id-8097584f3cbe4e07a6ddef9dbc7bc2c4">
+      <documentation>22.ประสานงานหน่วยเกี่ยวข้องในการควบคุมระบบไฟฟ้าสาธารณะ และดำเนินการด้าน&#xD;
+ละเมิดระบบจำหน่ายทุกประเภท</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="18.รวบรวมข้อมูลทางเทคนิค คู่มือการใช้งานอุปกรณ์ไฟฟ้า (copy)" id="id-fef2d20b9c834acfa1ac3a422de9e4c4">
+      <documentation>18.รวบรวมข้อมูลทางเทคนิค คู่มือการใช้งานอุปกรณ์ไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="20.วางแผนตรวจสอบบำรุงรักษาระบบไฟฟ้าและดำเนินการซ่อมบำรุงรักษา ตรวจสอบบำรุงรักษาสายสื่อสาร Fiber Optic ของ กฟภ. (copy)" id="id-846cdbc7650d4868bd975b3e4b8025ab">
+      <documentation>20.วางแผนตรวจสอบบำรุงรักษาระบบไฟฟ้าและดำเนินการซ่อมบำรุงรักษา ตรวจสอบ&#xD;
+บำรุงรักษาสายสื่อสาร Fiber Optic ของ กฟภ.</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="17. วางแผนการจ่ายไฟฟ้า จัดทำ Single Line Diagram, Switching Diagramวิเคราะห์ปัญหาเกี่ยวกับการจ่ายไฟฟ้าและเสนอแนวทางการแก้ไข (copy)" id="id-325e3876a648446d844ea575920ece66">
+      <documentation>17. วางแผนการจ่ายไฟฟ้า จัดทำ Single Line Diagram, Switching Diagramวิเคราะห์&#xD;
+ปัญหาเกี่ยวกับการจ่ายไฟฟ้าและเสนอแนวทางการแก้ไข</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="23.ทบทวนความต้องการใช้พัสดุสำรองคลังฯงานแก้กระแสไฟฟ้าขัดข้องและเบิก - จ่ายพัสดุงานแก้กระแสไฟฟ้าขัดข้อง (copy)" id="id-2beaea9cf384455d93844e5946dc3716">
+      <documentation>23.ทบทวนความต้องการใช้พัสดุสำรองคลังฯงานแก้กระแสไฟฟ้าขัดข้องและเบิก - จ่าย&#xD;
+พัสดุงานแก้กระแสไฟฟ้าขัดข้อง</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="21.วางแผนและจัดการงานตัดต้นไม้ในระบบสายส่งระบบจำหน่าย และ Cross Country (copy)" id="id-e43f2603fffe405b89b9ddb7781dd959">
+      <documentation>21.วางแผนและจัดการงานตัดต้นไม้ในระบบสายส่งระบบจำหน่าย และ Cross Country</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="19. สำรวจ ออกแบบ ติดตั้งอุปกรณ์ป้องกันตัดตอน/คาปาซิเตอร์แรงสูง ตรวจสอบติดตามLine Coordination การวิเคราะห์Load Flowฯ และการวิเคราะห์หน่วยสูญเสียในระบบไฟฟ้า (copy)" id="id-d59f6231183143faa13beb41dc45b65e">
+      <documentation>19. สำรวจ ออกแบบ ติดตั้งอุปกรณ์ป้องกันตัดตอน/คาปาซิเตอร์แรงสูง ตรวจสอบติดตาม&#xD;
+Line Coordination การวิเคราะห์Load Flowฯ และการวิเคราะห์หน่วยสูญเสียในระบบ&#xD;
+ไฟฟ้า</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessObject" name="6. ตรวจสอบดูแลความต้องการใช้ไฟฟ้าและการวิเคราะห์แนะนำการใช้พลังงานไฟฟ้าอย่างมีประสิทธิภาพ" id="id-57e7d5a38c604f14a5f1dfd2600f6669">
+      <documentation>6. ตรวจสอบดูแลความต้องการใช้ไฟฟ้าและการวิเคราะห์แนะนำการใช้พลังงานไฟฟ้า&#xD;
+อย่างมีประสิทธิภาพ</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="กองพัฒนาระบบสารสนเทศด้านบริการลูกค้า" id="id-2d6249e67e2e442d826c783ab1e0d8be"/>
+    <element xsi:type="archimate:BusinessActor" name="แผนกพัฒนาระบบงานด้านบริการลูกค้า" id="id-19356fab8f084cd0aef98aee22e71aaf"/>
+    <element xsi:type="archimate:BusinessActor" name="แผนกพัฒนาระบบงานด้านวิศวกรรม" id="id-40d302c794964fbeb5e98edd66abcd35"/>
+    <element xsi:type="archimate:BusinessActor" name="แผนกพัฒนาระบบงานด้านการให้บริการผ่านช่องทางอิเล็กทรอนิกส" id="id-254b470f084e42c79034fd3ba6a32ae7">
+      <documentation>3. แผนกความปลอดภัยและอาชีวอนามัย</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="แผนกพัฒนาระบบงานด้านบริหารลูกค้าสัมพันธ์" id="id-12f5c62f12434ae6a809c35f8346dfac">
+      <documentation>แผนกพัฒนาระบบงานด้านบริหารลูกค้าสัมพันธ์</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="แผนกพัฒนาระบบการเชื่อมโยงข้อมูลอิเล็กทรอนิกส์และช่องทางการติดต่อสื่อสารระบบงาน" id="id-34734f5408b44fb79ccb83e1ae66128d">
+      <documentation>แผนกพัฒนาระบบการเชื่อมโยงข้อมูลอิเล็กทรอนิกส์และช่องทางการติดต่อสื่อสารระบบงาน</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="แผนกพัฒนาระบบศูนย์บริการข้อมูลลูกค้า และทรัพยากรสื่อสารโทรคมนาคม" id="id-41467952248c40f0917a59b7070ec68f">
+      <documentation>แผนกพัฒนาระบบศูนย์บริการข้อมูลลูกค้า และทรัพยากรสื่อสารโทรคมนาคม</documentation>
     </element>
   </folder>
   <folder name="Application" id="id-24064faa6d3d49ba94eea94650a6f148" type="application">
@@ -6162,6 +6467,75 @@ GIS</documentation>
     <element xsi:type="archimate:CompositionRelationship" id="id-5b76de0afe6744f092187f20249c2d56" source="id-63009bb07dbb45efbabaef93529b4cc0" target="id-914388e30f6045ab85b1c7645edbb64e"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-79f57eaa6c204b91ba8959a310e1fe08" source="id-63009bb07dbb45efbabaef93529b4cc0" target="id-e59a673535c54b96a758d864bf4b1747"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-7a402ab7d8a842e28d88989d3d65675c" source="id-5ecb0fd1c5ec43e98229f07fab2bc506" target="id-f2b29200013b4510a9689cc76afddb99"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-e18ec1cbaf4149389c647139cd7655b7" source="id-b4132aca653344d6bdc9639fd22b1204" target="id-5ecb0fd1c5ec43e98229f07fab2bc506"/>
+    <element xsi:type="archimate:AssociationRelationship" id="id-c56f945cd9924916a3b8116bdcbf29d8" source="id-153f39b744194d25b9e8c168dcc7ca08" target="id-63009bb07dbb45efbabaef93529b4cc0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c21795001ce84bd3b18e1cee2b62903e" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-50c2c4062c5146cc96debf6a9949f164"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bcf4e437dd0b48a39617cbac3320206a" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-6970a45436954110b8efbc0d7ae86d86"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c108cfbc38ed4cd6b6df8c325e844b0f" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-5865f48ee3cd4a41b40317c88d0506ec"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-4fd8259aa1b9407ebe89a152a4b285de" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-1daa9ded98ee46249bab4ed6cc6d87c6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5039bbf4673f4666948c59c91f7b3912" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-c227fb4d133242fbb5fef665ca413da7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-938c23bc730a47f793885eefe4c2d088" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-6160bc9a4c3e40b2acd30dd4393c06cb"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-b4eb7c41135d43c08479aa57bd90a9ad" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-efe6aea293dd44d2ae3b48fe64aaf90a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-98cc4473a62a48b7b4855a9e8d771fcb" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-5a18df8bddf04dc6b47922fa45b9c9b5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-78bedd6a67a3486cb7ebc69be270e3a2" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-7dbfe470b15a446cb1c372758e452be6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ab8110a1624343939d0a4089b792dd46" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-ab1e21e1d734428baf2896e623fc3d9f"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-592e7c32706e48f1aa78ecc64700718b" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-3c1d41bd2cd143cd961e2fb62a299e07"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-27dec75fafb048df989c6b14fd5ed6d5" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-9412f64b2c7541859ff33199b24d38e7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-7d3ab4938ca0407b89061976c608578d" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-ce447f15ea254a4cb08749e01758c938"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8b8d052dd77347898ab1a783f4ef5a75" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-2c7e4fa823c0413e952550177a940874"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-09c5834e70254e73a6f957696828df54" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-75b787219979485192181ff6ce325000"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-07a44fe2bdf14d5fb103180b631c9aa4" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-41289ff8baa149c2b3260e9a031650a5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f6aaf7bdcb774be78bc6518e91a71edd" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-8c487e619e2540158391279f40ff0bf4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f7406bf3b1794df2bf24aca4f4910f36" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-6c086debcee44addacd3b402c73cdeec"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9c5552390473481db1c43e785c1c5c97" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-aebce68a0371494480fb0c4e80af37ee"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-cbe330cf25434ac8bc6fc896385cf405" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-17289dbdbb6d46f3a6a66f506b178555"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e8b29787ddf5468dbec2213847cce024" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-785b0ea2d1b045eb879aaae737e4af3b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f0b63f17865848e8828b870c8b1a1c08" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-54131c7f33554b6d8bf2b6fbe46c57f6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a27699c011c94bd1be39ed675fc10826" source="id-8a4b57f463164faaa47abadaa9113efa" target="id-e45f9ee8b0264292badd18938ff92276"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d8f5e633e00d49c59b57e5573e22e2f4" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-c2f845d8f0934bad8049b740d49cfe0a"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ff4141c1a22e4c76b2a6a9a88492a0f8" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-a1837643382b4e148d1cdfaf005223b0"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e668ef6020c541a6b079d49f90cac760" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-7f5e2b71016048099e92ca4ff5178c22"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-750fbfa2bcd64b32b5cd1dab507e4875" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-69f9a4abf37d460a93b9380ba853c911"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-5f72aa1bb6814f3aa27e2713160ac866" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-743dd08e941848deaf9c94dfcf9053df"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-74fdcd2722f8490a8e0e529ca9142622" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-d38b62d2e6b44a629be293f209b30618"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c2712ebfe2f946458fce1314d6488bb6" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-4d5fae49464d4a91908e3f2e64209263"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ac952563a96e4cc4be91018940316cd6" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-f27ff34b980a406a86855fc044d61dea"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-38fe55b1b9f443cca84f18dbbf2ae742" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-7dbf716f6aa24a31abc7297c85bbb770"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3a489f55eda242cb8d8ae9bcf0a28647" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-5d81a38970074c51871420904febf1b2"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-11bfb9bb53a74a82a936b98bd2cea564" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-c22cc06053d841eeaefedad73b8cbab6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-84fd7e52cd354d198b76d545a09d42a4" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-ff95dd836eed428985e363e879ee0d1c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-755ed976b4854954a3dab7e6d20b3ded" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-3c9d61f71a464052a018f525d640de47"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-9d9f80a6f23e4710922ed3d616458fec" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-71ac5b9d0dea49519b9005cb9b240955"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-dfe28b29608b45c38c9e4dfa2ea37e7e" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-4507edd326164f45b9c2681d07e37bc1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-22f3f51ebd244d219f71dff896eff7c0" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-415c0d31474f44f280560b2bb045b7d7"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-615dbc7894cf463287d7da4ecc80d42e" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-d6ab2f7719774f07bbe922bee9545364"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-414c88b40a404b97b3001b8ce0976ce2" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-d9dc5999e6454f23af9bf909704c4f77"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-afd9e09576f843328c36e01a842b8c5b" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-771462cba73a48baad261bc5aec6b2ac"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ef61468c179b41dbb9dccb361b2568c4" source="id-b430ac9fc73d4f8e801d2878a753f62e" target="id-f12675f2bafb4c289ce5f27928a2aac5"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ed85e237b16447c7a3ac40500c514f74" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-b7fe5d3557a94e62a360902e66078b2e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-6fc7b254a85549b4a77d741706e9203d" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-fef2d20b9c834acfa1ac3a422de9e4c4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-fe5116f7346649b7a605ef672ff6f9c7" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-2dd9563e6cfd4a1f8c205bc6160c1408"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-990d4ef4f0114efdabd4523a0ed7ae74" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-8ffba20d781d40aebd8f6b60a0037509"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-ac721ff651c34898a47d40fe1ca39f5d" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-b2d96c8848d1421f9e47ffb5d6b66c91"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-fa963b1ef1af463dbf3c2beddf5eeed6" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-f243f90e062b407e9f7cd2368adcf6a4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-431ce4833758465b93d46aba3aab2d3e" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-2beaea9cf384455d93844e5946dc3716"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bf017ed0adbb45e09b7ade76f8fe85f1" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-e43f2603fffe405b89b9ddb7781dd959"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-463e8da633fc4131a95320b2c1f8d693" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-4f03774768b648f6948afd1bcd9dfa6c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-d78960e8d4eb4781af09939c6e5c5aa5" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-804a6bc6c1714a0f8b6a9e7a6952a914"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-524f0a38c60647e1ac45f42e66ff4054" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-098b2a67128e41d6bc7dae06c0744b5e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-970af577e58d4ddfb89e32692625a264" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-f4a846a691964a6ea55938a56bb8db88"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-58f2b9c581134f479c3ffbee5e2c0fa4" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-8097584f3cbe4e07a6ddef9dbc7bc2c4"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-c32919b8c8a847eab6e536fe4e82a766" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-57527c23515b48c1a074f790f7a230cf"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-2e45089419c547cb9cbfde7b09c46f1a" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-d855ff5efb364899a7a109657d2f7851"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-a28c6888388049b0b38280573ff1fd6e" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-6bba7d39623a4ace97afb58b2627314b"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-e575b49dc836486084afd636e7171381" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-186d074e1af745d18f49c40836e49493"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f09d44a99ac74c2981c12260b600271a" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-d59f6231183143faa13beb41dc45b65e"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-bbaf90a9b3f44734a615ab93e589ea42" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-5da89a651f81449e96392e3b83ad49ad"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-32a2dd73803d48f0a9acd7647c238164" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-846cdbc7650d4868bd975b3e4b8025ab"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-8cf7cbce0a6c41f788b3d6cd99f542f6" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-74345bf013e3429b812272eea5e8d217"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-f1929cc7c29e461ea456f80b131b8bc0" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-7836e068f884473c8365a2bd3c11d10c"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-3c74341307b84781ab8b4dc9e0bb90f7" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-325e3876a648446d844ea575920ece66"/>
+    <element xsi:type="archimate:CompositionRelationship" id="id-84537bb1664e4b76826ca1665127fe8c" source="id-83fcc83e89c84b47b5e5023f2d2da1f8" target="id-57e7d5a38c604f14a5f1dfd2600f6669"/>
   </folder>
   <folder name="Views" id="id-992d568d574a41418b73c374d449e03c" type="diagrams">
     <folder name="90.Proposal" id="id-12417b2753624e4fa89cb36a8cb16939">
@@ -10233,7 +10607,8 @@ GIS</documentation>
             <bendpoint startX="-30" startY="177" endX="138" endY="-3"/>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="id-3f8b629e08764b65b10d1cfa32b25584" source="id-52947392cd8e415387352f48914edfd0" target="id-70b73af0f02d4da2a85b646841874f70" archimateRelationship="id-721a7e0b13294c7ab8e41ae4c553ce52">
-            <bendpoint startX="-18" startY="249" endX="150" endY="-3"/>
+            <bendpoint startX="18" startY="249" endX="-138" endY="-3"/>
+            <bendpoint startX="54" startY="249" endX="-102" endY="-3"/>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="id-e50d80b7a69f48e4a2555d5835d883c0" source="id-52947392cd8e415387352f48914edfd0" target="id-580cde2ae93440e4b17fc520ea7574a2" archimateRelationship="id-49ee024d830e4cc7b5f7f5fc2ae7a34b">
             <bendpoint startX="-6" startY="321" endX="162" endY="-3"/>
@@ -10245,7 +10620,7 @@ GIS</documentation>
             <bendpoint startX="42" startY="177" endX="-114" endY="-3"/>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="id-aaac0ec71366404c8f32bde14c8c857b" source="id-52947392cd8e415387352f48914edfd0" target="id-66667cee3f1a49c79f4a3fa4d88c3c48" archimateRelationship="id-3a444222d1844a299d5c4eed4c8e7261">
-            <bendpoint startX="30" startY="249" endX="-126" endY="-3"/>
+            <bendpoint startX="-18" startY="249" endX="150" endY="-3"/>
           </sourceConnection>
           <sourceConnection xsi:type="archimate:Connection" id="id-0b520dd23bb346d99a49d6eae82a9d28" source="id-52947392cd8e415387352f48914edfd0" target="id-7c8a3617a02e4c3c9d46fefb4ba72bdb" archimateRelationship="id-aa1ecd5377c14e75b5dd51b9d72167ed">
             <bendpoint startX="6" startY="321" endX="-150" endY="-3"/>
@@ -10255,7 +10630,7 @@ GIS</documentation>
           <bounds x="60" y="252" width="157" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-70b73af0f02d4da2a85b646841874f70" targetConnections="id-3f8b629e08764b65b10d1cfa32b25584" fillColor="#ffffd7" textPosition="1" archimateElement="id-d718ca4e4041448899074b9218209555">
-          <bounds x="60" y="324" width="157" height="55"/>
+          <bounds x="384" y="324" width="157" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-580cde2ae93440e4b17fc520ea7574a2" targetConnections="id-e50d80b7a69f48e4a2555d5835d883c0" fillColor="#ffffd7" textPosition="1" archimateElement="id-8faadafaf59b449bad4d61945ff25a35">
           <bounds x="60" y="396" width="157" height="55"/>
@@ -10267,7 +10642,7 @@ GIS</documentation>
           <bounds x="384" y="252" width="157" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-66667cee3f1a49c79f4a3fa4d88c3c48" targetConnections="id-aaac0ec71366404c8f32bde14c8c857b" fillColor="#ffffd7" textPosition="1" archimateElement="id-55eb48abe00e4beab0e4b6dc591555a9">
-          <bounds x="384" y="324" width="157" height="55"/>
+          <bounds x="60" y="324" width="157" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7c8a3617a02e4c3c9d46fefb4ba72bdb" targetConnections="id-0b520dd23bb346d99a49d6eae82a9d28" fillColor="#ffffd7" textPosition="1" archimateElement="id-fa0d1ea72af24c90a2a054c053451b11">
           <bounds x="384" y="396" width="157" height="55"/>
@@ -10788,13 +11163,34 @@ GIS</documentation>
           </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-27dcacc22b9946a3b8183f877bfa2fa0" targetConnections="id-9af3f31330974b42bd7a1265166747ea" fillColor="#ffffdf" textPosition="1" archimateElement="id-dfcfc97a7a4d473d85a63e26ea4fc968">
-          <bounds x="354" y="264" width="145" height="61"/>
+          <bounds x="264" y="264" width="145" height="61"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e5f4670cd1d348c99b8c265623ef2dda" targetConnections="id-a6396b9de9ee4013ac1cde62e56565a6" fillColor="#ffffdf" textPosition="1" archimateElement="id-84da54dd202f422f985fd2f15876a012">
-          <bounds x="360" y="342" width="133" height="61"/>
+          <bounds x="270" y="342" width="133" height="61"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-85412fa1c5754b97afcb2ec9474ac3c6" targetConnections="id-d2f62dfb190a4f47aae45dd67ddf209a" fillColor="#ffffdf" textPosition="1" archimateElement="id-9c2dbff6bfde4af7b16a2681341d1bb3">
-          <bounds x="360" y="432" width="133" height="61"/>
+          <bounds x="270" y="432" width="133" height="61"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-4ad5842a55504f39876e01d876b773af" fillColor="#ffffdf" textPosition="1" archimateElement="id-2d6249e67e2e442d826c783ab1e0d8be">
+          <bounds x="468" y="264" width="145" height="61"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-8ee821011a8447db9942a7e6fdbfa567" fillColor="#ffffdf" textPosition="1" archimateElement="id-19356fab8f084cd0aef98aee22e71aaf">
+          <bounds x="661" y="264" width="193" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-d93e9978c10847c399869b5370481cd1" fillColor="#ffffdf" textPosition="1" archimateElement="id-40d302c794964fbeb5e98edd66abcd35">
+          <bounds x="684" y="312" width="193" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-eaf64ecd43594f1f8e4ddef4cc2eb504" fillColor="#ffffdf" textPosition="1" archimateElement="id-254b470f084e42c79034fd3ba6a32ae7">
+          <bounds x="660" y="360" width="193" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-e4a23ce6e8a54e8fa397edecb384834b" fillColor="#ffffdf" textPosition="1" archimateElement="id-12f5c62f12434ae6a809c35f8346dfac">
+          <bounds x="660" y="408" width="193" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-cc9043a6eeaa4145b4c25364f2f3643e" fillColor="#ffffdf" textPosition="1" archimateElement="id-34734f5408b44fb79ccb83e1ae66128d">
+          <bounds x="684" y="456" width="193" height="43"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-ae4e2098839d4d1a8f3e6073915f4f88" fillColor="#ffffdf" textPosition="1" archimateElement="id-41467952248c40f0917a59b7070ec68f">
+          <bounds x="660" y="506" width="193" height="43"/>
         </child>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="01.ORG-OM" id="id-c8d57eac978245c8abc5f2a53a89e00b">
@@ -10866,7 +11262,7 @@ GIS</documentation>
           <sourceConnection xsi:type="archimate:Connection" id="id-f416edcfcfc44441a774a624c3675df2" source="id-67352877c16f43eb91fef9283f19bf28" target="id-b5a5603f69894ad9a8b41b3542543b61" archimateRelationship="id-f4e284664d884fd2b2e74171270fe087"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-66a7d5e0d28c4a148767d8f3630cc96f" targetConnections="id-61a1b559b7314c8e94763d934935b2a5" fillColor="#ffffdf" textPosition="1" archimateElement="id-ed866eb291dd4cc2a0b51f5ccd54afc8">
-          <bounds x="790" y="168" width="123" height="61"/>
+          <bounds x="780" y="180" width="123" height="61"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-bdd342f6dc2b43a48f77c2d511f6f8da" targetConnections="id-43c6903b9bdc4d549978c218cf6d042b" fillColor="#ffffdf" textPosition="1" archimateElement="id-06ebcce3b2bf49e8a8c8c2e4d68360ed">
           <bounds x="96" y="288" width="157" height="49"/>
@@ -10913,11 +11309,11 @@ GIS</documentation>
           </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8369bb77fb1c4b58af3825af0f6c645e" targetConnections="id-437328e7890c4477b5aa27b78a854957" archimateElement="id-574c0bf1133b43e5bb3a2cad1f9ae337">
-          <bounds x="72" y="600" width="421" height="41"/>
+          <bounds x="48" y="600" width="253" height="85"/>
           <feature name="labelExpression" value="1. รวบรวมข้อมูลจัดทำสถิติกระแสไฟฟ้าขัดข้องและประเมินผลความเชื่อถือได้ระบบไฟฟ้า"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8cd0c2693a5e42269c985f86faff435c" targetConnections="id-755619f504e34bbfa8c4c0c339d911e0" archimateElement="id-c279e60b13194f8ba64f41db4d30e110">
-          <bounds x="192" y="660" width="421" height="61"/>
+          <bounds x="336" y="600" width="303" height="85"/>
           <feature name="labelExpression" value="6. พัฒนาระบบบริหารกระแสไฟฟ้าขัดข้อง (OMS) และประสานงานกับส่วนที่เกี่ยวข้อง&#xD;&#xA;ในการประเมินผลความเชื่อถือได้ระบบไฟฟ้า ให้สามารถเชื่อมโยงข้อมูลระหว่างหน่วยงาน&#xD;&#xA;ภายใน กฟภ."/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b5a5603f69894ad9a8b41b3542543b61" targetConnections="id-f416edcfcfc44441a774a624c3675df2" fillColor="#ffffe6" archimateElement="id-ad96e95eb36942028dbeb096c4b1d395">
@@ -10928,7 +11324,7 @@ GIS</documentation>
           <sourceConnection xsi:type="archimate:Connection" id="id-8762ca55da5344a4af3e0b015358e296" source="id-a32548ce11114e74bfe25f5817657dcc" target="id-a050739a1e5140ebb76ea5c3f606e915" archimateRelationship="id-fafc026d96be41bc85561fc1e133fcb8"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a050739a1e5140ebb76ea5c3f606e915" targetConnections="id-8762ca55da5344a4af3e0b015358e296" archimateElement="id-30b24aa28415431e85212bc6c7205b38">
-          <bounds x="574" y="601" width="421" height="40"/>
+          <bounds x="660" y="600" width="265" height="85"/>
           <feature name="labelExpression" value="7. จัดทำหลักปฏิบัติในการใช้งานโปรแกรมประยุกต์สำหรับงานแก้ไฟ"/>
         </child>
         <documentation>สายงานปฏิบัติการมีความเกี่ยวข้องโดยตรงกับระบบบริหารไฟฟ้าขัดข้อง หรือ OMS (Outage Management System) สายงานนี้ ที่หน่วยงานส่วนกลางประกอบด้วย สี่ฝ่ายได้แก่ ฝ่ายควบคุมระบบไฟฟ้า ฝ่ายระบบมิเตอร์และหม้อแปลง ฝ่ายบำรุงรักษา และฝ่ายบำรุงรักษาสถานีไฟฟ้าและระบบไฟฟ้า โดยฝ่ายที่มีความเกี่ยวข้องใกล้ชิดกับระบบบริหารไฟฟ้าขัดข้องที่สุดคือ ฝ่ายควบคุมระบบไฟฟ้า ซึ่งมีหน่วยงานย่อยระดับกอง สามกอง ได้แก่ กองควบคุมการจ่ายไฟ ศูนย์สั่งการระบบไฟฟ้า กองอุปกรณ์ควบุม ซึ่งมีรายละเอียดหน่วยงานย่อยระดับแผนกดังแสดงในภาพต่อไปนี้</documentation>
@@ -11146,48 +11542,48 @@ GIS</documentation>
       </element>
       <element xsi:type="archimate:ArchimateDiagramModel" name="02.ORG-area-OM" id="id-733dcb9cfbca4909886a9387a166ce6c">
         <child xsi:type="archimate:DiagramObject" id="id-151d486c995c4f0ea70f40ccd12b29dd" fillColor="#ffffdf" textPosition="1" archimateElement="id-1f1203ccbb0d42a5b400e7d566b99743">
-          <bounds x="48" y="32" width="156" height="61"/>
+          <bounds x="24" y="189" width="108" height="61"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-84f470a907674eaf9c129874061ee247" source="id-151d486c995c4f0ea70f40ccd12b29dd" target="id-6506668e7e5e4bee8548dd6be272ac4c" archimateRelationship="id-3a683a12a7da4edb81bc31ab594867b0"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-6a13e3ecfc5942c3bf9cd9f06bfa4e95" source="id-151d486c995c4f0ea70f40ccd12b29dd" target="id-3458694fa00944dd91d2f41ad3aa9238" archimateRelationship="id-b97b3a6640344274a313d7ec8cd9da8b"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-21fa887bfd2248f48ca0ffa0fd38fe21" source="id-151d486c995c4f0ea70f40ccd12b29dd" target="id-e6bcb614eda84805b922dbf94be2300b" archimateRelationship="id-75d17556be544ba48cdee4a534a17842"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e6bcb614eda84805b922dbf94be2300b" targetConnections="id-21fa887bfd2248f48ca0ffa0fd38fe21" fillColor="#ffffdf" textPosition="1" archimateElement="id-a63814f957c649b6a7c0df3289a4cae0">
-          <bounds x="48" y="242" width="146" height="61"/>
+          <bounds x="168" y="285" width="97" height="61"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-6506668e7e5e4bee8548dd6be272ac4c" targetConnections="id-84f470a907674eaf9c129874061ee247" fillColor="#ffffdf" textPosition="1" archimateElement="id-b69e2eee49724f909beefdf04115f3b0">
-          <bounds x="252" y="30" width="146" height="61"/>
+          <bounds x="168" y="96" width="97" height="61"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-8fc7d38afa7a41dcb9c075645e337ea3" source="id-6506668e7e5e4bee8548dd6be272ac4c" target="id-fa23068685d9484e81071f31b3938f62" archimateRelationship="id-44361a5112014e099a38e37ee5a762ad"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3458694fa00944dd91d2f41ad3aa9238" targetConnections="id-6a13e3ecfc5942c3bf9cd9f06bfa4e95" fillColor="#ffffdf" textPosition="1" archimateElement="id-4c26ada6d4b94d8e884eef347f5be4a6">
-          <bounds x="252" y="348" width="146" height="61"/>
+          <bounds x="168" y="414" width="97" height="61"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-b5658bcd481b49fdb5696708150975e7" source="id-3458694fa00944dd91d2f41ad3aa9238" target="id-c0c8702db4dc411bb524541c6b173a91" archimateRelationship="id-ac45ae8b9c93449490334f6b6b607ed2"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-56e35ab1f21348eda043b03901121d48" source="id-3458694fa00944dd91d2f41ad3aa9238" target="id-50d24bde7b454f40bd21ed90f62ba120" archimateRelationship="id-0b1f72ad31f94fe8ae92a0912c04c482"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-62745f5220454977bf211013f7bf6d21" source="id-3458694fa00944dd91d2f41ad3aa9238" target="id-621fe5eaa13e4e25b1acdb9cf42b8ff0" archimateRelationship="id-c4e050ec31934fff84320792a9f137b1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d368133e30f54be4b66d7581a92a1104" targetConnections="id-dfeef089c22b44caa079bd6557bec4a5" fillColor="#ffffdf" textPosition="1" archimateElement="id-6991d0574f524066828cac108ce1196c">
-          <bounds x="637" y="36" width="193" height="43"/>
+          <bounds x="504" y="18" width="193" height="43"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-b482b48d946849be9a9da027e3f84a87" targetConnections="id-894010392b354d518b576a71b81b0137" fillColor="#ffffdf" textPosition="1" archimateElement="id-a1a66124f37c4f7abca3875d124fbbd4">
-          <bounds x="636" y="84" width="193" height="43"/>
+          <bounds x="503" y="66" width="193" height="43"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-62ce39cb30c9427192f67d3f3093cea2" source="id-b482b48d946849be9a9da027e3f84a87" target="id-d0afe98b0bef4016b9d12894ad2715dd" archimateRelationship="id-859a659008d846c1aa3af0b0425a298f"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-035e05e8ab0f4c70a23e0630178d7430" targetConnections="id-f1a6eab433ae4cb592189349d7f95fc6" fillColor="#ffffdf" textPosition="1" archimateElement="id-7b10870ac2284197b4cb3cbc43d74d03">
-          <bounds x="636" y="132" width="193" height="43"/>
+          <bounds x="503" y="114" width="193" height="43"/>
           <feature name="labelExpression" value="3. แผนกความ&#xD;&#xA;ปลอดภัยและอาชีวอนามัย"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-8faa2201d6ed440392d3b09123cc48a0" targetConnections="id-57484adfb1dd402a8413ae6e655def6f" fillColor="#ffffdf" textPosition="1" archimateElement="id-eadb9a3ef6ea4fdaaef7d6fc1cca71cc">
-          <bounds x="636" y="180" width="193" height="43"/>
+          <bounds x="503" y="162" width="193" height="43"/>
           <feature name="labelExpression" value="4. แผนกมาตรฐาน&#xD;&#xA;และทดสอบอุปกรณ์ไฟฟ้า"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7749085225aa4f9f86b6b430c5ed8b13" targetConnections="id-4b5b59bc56fd41899181339cf2a049e7" fillColor="#ffffdf" textPosition="1" archimateElement="id-16f78bcd7d9e49c78bd2a7688ffa1820">
-          <bounds x="636" y="228" width="193" height="43"/>
+          <bounds x="503" y="210" width="193" height="43"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-22a802f7d1d24ca894ecedd64f214638" targetConnections="id-7e142db0c48c429997143e050b7d3277" fillColor="#ffffdf" textPosition="1" archimateElement="id-5a93c54a079a461884ab1cbecf7390f6">
-          <bounds x="636" y="278" width="193" height="43"/>
+          <bounds x="503" y="260" width="193" height="43"/>
           <feature name="labelExpression" value="6. แผนกส่งเสริมพลังงาน&#xD;&#xA;ทดแทนและอนุรักษ์พลังงาน"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-fa23068685d9484e81071f31b3938f62" targetConnections="id-8fc7d38afa7a41dcb9c075645e337ea3" fillColor="#ffffdf" textPosition="1" archimateElement="id-670ea537464b4a00b76c5babfcc47d35">
-          <bounds x="432" y="30" width="146" height="61"/>
+          <bounds x="312" y="96" width="96" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-dfeef089c22b44caa079bd6557bec4a5" source="id-fa23068685d9484e81071f31b3938f62" target="id-d368133e30f54be4b66d7581a92a1104" archimateRelationship="id-e238fa9e9bfb4cf487f19323f7efbfb5"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-894010392b354d518b576a71b81b0137" source="id-fa23068685d9484e81071f31b3938f62" target="id-b482b48d946849be9a9da027e3f84a87" archimateRelationship="id-3ab9ccf2982f4ce686c4308b78142fb3"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-f1a6eab433ae4cb592189349d7f95fc6" source="id-fa23068685d9484e81071f31b3938f62" target="id-035e05e8ab0f4c70a23e0630178d7430" archimateRelationship="id-40fcdf8bf7b448de8aceff1821ac461a"/>
@@ -11197,7 +11593,7 @@ GIS</documentation>
           <sourceConnection xsi:type="archimate:Connection" id="id-64120d0a31ca4ff59b77e2ac6309d57a" source="id-fa23068685d9484e81071f31b3938f62" target="id-70f6502b3f43451b86f1a05ad62c8b3d" archimateRelationship="id-47bc7a8b82aa423faf74696161c3ecee"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-c0c8702db4dc411bb524541c6b173a91" targetConnections="id-b5658bcd481b49fdb5696708150975e7" fillColor="#ffffdf" textPosition="1" archimateElement="id-d7e69b44fac649139efc5848e50ca299">
-          <bounds x="432" y="348" width="146" height="61"/>
+          <bounds x="312" y="414" width="96" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-9c42c51d8aef444ebb37115a6e02188b" source="id-c0c8702db4dc411bb524541c6b173a91" target="id-514782e7603e41359f26ef1807ec53f1" archimateRelationship="id-ddd4da9070c64194becb63ed259b9f44"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-535e408e51344ef3bc9c42282c72e367" source="id-c0c8702db4dc411bb524541c6b173a91" target="id-63617e6113cf4bdcb9d5738ce24bc784" archimateRelationship="id-a73223ab334549898dc71faf0025143b"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-8ec1c45205804ce28e67994cf93c304a" source="id-c0c8702db4dc411bb524541c6b173a91" target="id-e89b0715f6ef4ddab0395daa6ed1645a" archimateRelationship="id-1befeddf55f348c88d206f4a436cfdf7"/>
@@ -11205,49 +11601,68 @@ GIS</documentation>
           <sourceConnection xsi:type="archimate:Connection" id="id-1adbc9969924432d8c3a0e6a76d5e63c" source="id-c0c8702db4dc411bb524541c6b173a91" target="id-7dc61d0853b4438ebe92c468d4466d7c" archimateRelationship="id-8d602fad596945a397e47474a3abd48a"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-50d24bde7b454f40bd21ed90f62ba120" targetConnections="id-56e35ab1f21348eda043b03901121d48" fillColor="#ffffdf" textPosition="1" archimateElement="id-715636dcfbad4c36b5c80d4db251518b">
-          <bounds x="252" y="456" width="146" height="49"/>
+          <bounds x="312" y="510" width="96" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-621fe5eaa13e4e25b1acdb9cf42b8ff0" targetConnections="id-62745f5220454977bf211013f7bf6d21" fillColor="#ffffdf" textPosition="1" archimateElement="id-bcfd8c8ced6b41dc934a13cb05be910d">
-          <bounds x="48" y="458" width="146" height="49"/>
+          <bounds x="168" y="510" width="97" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-514782e7603e41359f26ef1807ec53f1" targetConnections="id-9c42c51d8aef444ebb37115a6e02188b" fillColor="#ffffdf" textPosition="1" archimateElement="id-b4132aca653344d6bdc9639fd22b1204">
-          <bounds x="637" y="348" width="193" height="43"/>
+          <bounds x="504" y="330" width="193" height="43"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-275be376f725481c992bd7300a891bf6" source="id-514782e7603e41359f26ef1807ec53f1" target="id-884c69325e69461483085d20e8bc5dec" archimateRelationship="id-e18ec1cbaf4149389c647139cd7655b7"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-63617e6113cf4bdcb9d5738ce24bc784" targetConnections="id-535e408e51344ef3bc9c42282c72e367" fillColor="#ffffdf" textPosition="1" archimateElement="id-153f39b744194d25b9e8c168dcc7ca08">
-          <bounds x="636" y="396" width="193" height="43"/>
+          <bounds x="503" y="378" width="193" height="43"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-480993a452554afbb264d814dc477163" source="id-63617e6113cf4bdcb9d5738ce24bc784" target="id-afcdeff65b8f4ba29872384be378880f" archimateRelationship="id-c56f945cd9924916a3b8116bdcbf29d8"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-e89b0715f6ef4ddab0395daa6ed1645a" targetConnections="id-8ec1c45205804ce28e67994cf93c304a" fillColor="#ffffdf" textPosition="1" archimateElement="id-d4a04628e43f4186add67514edd0e078">
-          <bounds x="636" y="444" width="193" height="43"/>
+          <bounds x="503" y="426" width="193" height="43"/>
           <feature name="labelExpression" value="3. แผนกระบบควบคุมศูนย์สั่งการ"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-40f9b251189d42369c18fe70861c95fc" targetConnections="id-89f61806c00f44039c344b5b6a1f182f" fillColor="#ffffdf" textPosition="1" archimateElement="id-0ffc23780f1a4210bf02a0e2cd73db5a">
-          <bounds x="636" y="492" width="193" height="43"/>
+          <bounds x="503" y="474" width="193" height="43"/>
           <feature name="labelExpression" value="4. แผนกจัดการงานสถานีไฟฟ้า 1"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7dc61d0853b4438ebe92c468d4466d7c" targetConnections="id-1adbc9969924432d8c3a0e6a76d5e63c" fillColor="#ffffdf" textPosition="1" archimateElement="id-90011ac752ab44539499e2741cea1772">
-          <bounds x="636" y="540" width="193" height="43"/>
+          <bounds x="503" y="522" width="193" height="43"/>
           <feature name="labelExpression" value="5. แผนกจัดการงานสถานีไฟฟ้า 2"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-70f6502b3f43451b86f1a05ad62c8b3d" targetConnections="id-64120d0a31ca4ff59b77e2ac6309d57a" fillColor="#ffffe6" archimateElement="id-ae46ee12959b459e813945cebd355316">
-          <bounds x="432" y="150" width="133" height="55"/>
+          <bounds x="312" y="192" width="96" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-d0afe98b0bef4016b9d12894ad2715dd" targetConnections="id-62ce39cb30c9427192f67d3f3093cea2" fillColor="#ffffe6" archimateElement="id-352b632a5b1d418f9e236add2381e0d7">
-          <bounds x="876" y="84" width="164" height="43"/>
+          <bounds x="718" y="60" width="164" height="43"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-74dc180613e34a18ba62928089883f9c" source="id-d0afe98b0bef4016b9d12894ad2715dd" target="id-036914fe5d834a1cbe4d947fd9633d09" archimateRelationship="id-51e5471e22d54a438ff6b123565f94a2"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-182ec5099542457fadddf10e81bbcea6" source="id-d0afe98b0bef4016b9d12894ad2715dd" target="id-7db7248cc5fb4aeaaeca9d7e35c1d96c" archimateRelationship="id-6b767289071143f888eee82421416ebd"/>
-          <sourceConnection xsi:type="archimate:Connection" id="id-e2b17908b2334346887f8a6edfabbf34" source="id-d0afe98b0bef4016b9d12894ad2715dd" target="id-22463c7f0776462d859f5ef526012a1f" archimateRelationship="id-a2341018a69644e0926bce3bc983ace4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e2b17908b2334346887f8a6edfabbf34" source="id-d0afe98b0bef4016b9d12894ad2715dd" target="id-22463c7f0776462d859f5ef526012a1f" archimateRelationship="id-a2341018a69644e0926bce3bc983ace4">
+            <bendpoint startX="148" startY="69" endX="36" endY="-154"/>
+          </sourceConnection>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-7db7248cc5fb4aeaaeca9d7e35c1d96c" targetConnections="id-182ec5099542457fadddf10e81bbcea6" archimateElement="id-0925d1947e614c2a9b2cd015dcf0cbf9">
-          <bounds x="852" y="157" width="421" height="41"/>
+          <bounds x="708" y="131" width="193" height="59"/>
           <feature name="labelExpression" value="1. ตรวจสอบ แนะนำ การปรับปรุงข้อมูลงานสารสนเทศระบบไฟฟ้าทางภูมิศาสตร์(GIS)"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-036914fe5d834a1cbe4d947fd9633d09" targetConnections="id-74dc180613e34a18ba62928089883f9c" archimateElement="id-8a130d94a26b4986abe5275a5b6870a8">
-          <bounds x="888" y="216" width="421" height="40"/>
+          <bounds x="744" y="201" width="193" height="61"/>
           <feature name="labelExpression" value="2. ตรวจสอบ คุณภาพข้อมูลสารสนเทศระบบไฟฟ้าทางภูมิศาสตร์(GIS) และประสานงาน&#xD;&#xA;ปรับปรุงแก้ไข นำเข้าข้อมูลให้ถูกต้องเป็นปัจจุบัน"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-22463c7f0776462d859f5ef526012a1f" targetConnections="id-e2b17908b2334346887f8a6edfabbf34" archimateElement="id-536e961ec6b6495cae132f826ebe8ba9">
-          <bounds x="984" y="278" width="193" height="69"/>
+          <bounds x="816" y="270" width="193" height="69"/>
           <feature name="labelExpression" value="3. ให้บริการข้อมูลงานสารสนเทศระบบไฟฟ้าทางภูมิศาสตร์(GIS) ทั้งหน่วยงานภายใน&#xD;&#xA;และภายนอก กฟภ."/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-afcdeff65b8f4ba29872384be378880f" targetConnections="id-480993a452554afbb264d814dc477163" fillColor="#ffffe6" archimateElement="id-63009bb07dbb45efbabaef93529b4cc0">
+          <bounds x="722" y="402" width="131" height="61"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-48d98c0cada248aabc9f8cba9e9351e0" source="id-afcdeff65b8f4ba29872384be378880f" target="id-af12c680ced14b9588fdcbdcf8c1f9d7" archimateRelationship="id-9cc37bd942384029bd04918976fb8f8b"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-af12c680ced14b9588fdcbdcf8c1f9d7" targetConnections="id-48d98c0cada248aabc9f8cba9e9351e0" archimateElement="id-947291d4413d467191973dc463af7fb4">
+          <bounds x="780" y="489" width="157" height="76"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-884c69325e69461483085d20e8bc5dec" targetConnections="id-275be376f725481c992bd7300a891bf6" fillColor="#ffffe6" archimateElement="id-5ecb0fd1c5ec43e98229f07fab2bc506">
+          <bounds x="734" y="345" width="107" height="40"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ee7900ce2d994c7bb2d04db1361b4af3" source="id-884c69325e69461483085d20e8bc5dec" target="id-7c9c56c1bc0c442b98addf1fb3713734" archimateRelationship="id-bab7b56f0df840dd9bffd3b364302878"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="id-7c9c56c1bc0c442b98addf1fb3713734" targetConnections="id-ee7900ce2d994c7bb2d04db1361b4af3" archimateElement="id-3bd41e54afe64a50aa9088d24567a480">
+          <bounds x="876" y="350" width="133" height="101"/>
+          <feature name="labelExpression" value="3. สั่งการ และสั่งงานในระบบบริหารไฟฟ้าขัดข้อง และบันทึกเหตุการณ์ไฟฟ้าขัดข้องใน&#xD;&#xA;ระบบสายส่ง สถานีไฟฟ้า และระบบจำหน่ายแรงสูง"/>
         </child>
         <documentation>สำหรับหน่วยงานสายปฏิบัติที่อยู่ในส่วนภูมิภาค จะมีการแบ่งเขตรับผิดชอบออกเป็น 12 เขต ภายใต้แต่ละเขต จะมีหน่วยงานย่อย ได้แก่ ฝ่ายวิศวกรรมและบริการ ฝ่ายปฏิบัติการและบำรุงรักษา และฝ่ายบัญชีและพลังงานไฟฟ้า นอกจากนี้ ภายใต้เขต ยังมีการการไฟฟ้าส่วนภูมิภาค หรือ การไฟฟ้าหน้างาน กระจายอยู่ในพื้นที่โดยแบ่งหน้าที่ความรับผิดชอบกันเชิงพื้นที่ การไฟฟ้าหน้างาน สามารถแบ่งประเภทออกได้เป็น การไฟฟ้าส่วนภูมิภาคชั้น 1  การไฟฟ้าส่วนภูมิภาคชั้น 2  การไฟฟ้าส่วนภูมิภาคชั้น 3  การไฟฟ้าส่วนภูมิภาคสาขา และ ไฟฟ้าส่วนภูมิภาคสาขาย่อย</documentation>
       </element>
@@ -11425,6 +11840,339 @@ GIS</documentation>
           <child xsi:type="archimate:DiagramObject" id="id-e5a3627d31234fd48879cdad6283a3a0" targetConnections="id-a626ab5211a048b89d1bc44ba6d5b4ce" archimateElement="id-1e02b29bfafa46ae9378ba37f3c2d36c">
             <bounds x="24" y="276" width="421" height="40"/>
             <feature name="labelExpression" value="6. งานวิเคราะห์และประเมินค่าหน่วยสูญเสียในระบบไฟฟ้าด้านเทคนิค (Technical&#xD;&#xA;Loss)"/>
+          </child>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="17-JD-prv8-OP" id="id-93f436667ade430b9b232b96cdb5fcbc">
+        <child xsi:type="archimate:DiagramObject" id="id-3665f3f46fd34d1fb927bf5e3a2e4829" fillColor="#ffffe6" archimateElement="id-8a4b57f463164faaa47abadaa9113efa">
+          <bounds x="36" y="48" width="937" height="625"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bd89a36da80e45b19f8c24cf9af464d0" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-5c1c5994d15a4ff18751ddad641c2c9e" archimateRelationship="id-98cc4473a62a48b7b4855a9e8d771fcb"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-607fda73e9a9421187416d7598270b6e" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-c4b77837f2984e4eb159d7ff6bff299c" archimateRelationship="id-c108cfbc38ed4cd6b6df8c325e844b0f"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-239b74667a8f4311a6d7055746c3aada" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-ef8daadd148b4fd5b01fc092194dc641" archimateRelationship="id-b4eb7c41135d43c08479aa57bd90a9ad"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c2b963a4c00043caa7ac372793ebf0b5" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-a1e3242846de4baca1c79f1b151df98d" archimateRelationship="id-938c23bc730a47f793885eefe4c2d088"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bdfbc5f1e3594139867c67e6251ce683" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-c67eb13f1c8d4babbc1551db5014bb73" archimateRelationship="id-5039bbf4673f4666948c59c91f7b3912"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-09fa2d4cb82f47da94865e0f7dc9412e" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-8ab7673ce3d74d3c8a9548df50bd9e34" archimateRelationship="id-c21795001ce84bd3b18e1cee2b62903e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0ebe16f41897484f84ce7d9724422889" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-5fc10c4620d24be29d657a7b69cf41cf" archimateRelationship="id-4fd8259aa1b9407ebe89a152a4b285de"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-928681af17334998bb2a7e1efbe16cbd" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-0bed2d50944046c7bdf4ae547d53f54d" archimateRelationship="id-bcf4e437dd0b48a39617cbac3320206a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9e65892f31f148e780913f5d6717497f" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-2f69795e9a3e45aca179b01f11affcd3" archimateRelationship="id-78bedd6a67a3486cb7ebc69be270e3a2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-818a1bbfa6f04653bbf92f13588ff1be" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-0a4196d9c5f341ea8339f7f52944eb55" archimateRelationship="id-ab8110a1624343939d0a4089b792dd46"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-77562e6f47644580904211df6f520afd" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-5dcbb5862d094c16b4c3240fdd048c24" archimateRelationship="id-592e7c32706e48f1aa78ecc64700718b"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-91208de846b647f89e31d69a5171da51" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-ac726fe1cbc9438a9a16e019fa348866" archimateRelationship="id-27dec75fafb048df989c6b14fd5ed6d5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-45ae18fddad8412db0d4c321d5ad8d36" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-17eb4570cb784eec9dcc92675149690f" archimateRelationship="id-7d3ab4938ca0407b89061976c608578d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-537e259850c14b62869f45ce3ccddb05" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-9f9b41167a56472485efb44fe9092b88" archimateRelationship="id-8b8d052dd77347898ab1a783f4ef5a75"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7673d1c736ef4187baebcb1738bc319e" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-9878bc9d962d4d39a08cbc7a69696954" archimateRelationship="id-09c5834e70254e73a6f957696828df54"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b934401e30ca433992c8860773321172" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-591fe707940a48eb82da0452703f1aa4" archimateRelationship="id-07a44fe2bdf14d5fb103180b631c9aa4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a08cc0c79b714fc9a025153631cb7c3c" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-021ca7e845814580a3e5c2f9a6767dad" archimateRelationship="id-f6aaf7bdcb774be78bc6518e91a71edd"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-fb6e9bf140fe40b285cab5a1f44a9316" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-8570f29995c84c17bf444b0b0b44dea8" archimateRelationship="id-f7406bf3b1794df2bf24aca4f4910f36"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8f94fec2b36c4010b77b08f6b24eb3ee" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-7213dcdc0e6249d198e604694544b4fe" archimateRelationship="id-9c5552390473481db1c43e785c1c5c97"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1a23a5d72f154b6d9ec32a4d54b9d6ae" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-70ce637c76a44be29285b34adcc42b9b" archimateRelationship="id-cbe330cf25434ac8bc6fc896385cf405"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f511be4c027847c6b025da114c0f6632" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-6bf7dabb66bd409abcdaa0de6a21de90" archimateRelationship="id-e8b29787ddf5468dbec2213847cce024"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e320d26f907b4540b93764d8659efdf7" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-b16dfb8d180f498c90ec0421bfdd3da9" archimateRelationship="id-f0b63f17865848e8828b870c8b1a1c08"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-bf43f8048bd447f5aee0e884a02e883f" source="id-3665f3f46fd34d1fb927bf5e3a2e4829" target="id-b3ad03ebbc8b450bbfa354b8228060b3" archimateRelationship="id-a27699c011c94bd1be39ed675fc10826"/>
+          <child xsi:type="archimate:DiagramObject" id="id-0bed2d50944046c7bdf4ae547d53f54d" targetConnections="id-928681af17334998bb2a7e1efbe16cbd" archimateElement="id-6970a45436954110b8efbc0d7ae86d86">
+            <bounds x="24" y="35" width="421" height="41"/>
+            <feature name="labelExpression" value="1.จัดทำแผนงานปรับปรุงระบบไฟฟ้า สำรวจ ออกแบบ ประมาณการค่าใช้จ่ายงานก่อสร้าง&#xD;&#xA;ปรับปรุง ซ่อมแซมบำรุงรักษาระบบไฟฟ้า สำหรับงานปรับปรุงเพิ่มประสิทธิภาพ และงาน&#xD;&#xA;ย้ายแนว ระบบจำหน่ายฯ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c4b77837f2984e4eb159d7ff6bff299c" targetConnections="id-607fda73e9a9421187416d7598270b6e" archimateElement="id-5865f48ee3cd4a41b40317c88d0506ec">
+            <bounds x="24" y="179" width="421" height="40"/>
+            <feature name="labelExpression" value="4.ควบคุมการปฏิบัติงานฮอทไลน์ แก้ไขปัญหาการจ่ายไฟฟ้า กรณีฉุกเฉิน การติดตั้ง&#xD;&#xA;ซ่อมแซม บำรุงรักษาระบบไฟฟ้าโดยไม่ดับไฟ และการควบคุม ดูแล บำรุงรักษาเครื่องมือ&#xD;&#xA;ฮอทไลน"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ef8daadd148b4fd5b01fc092194dc641" targetConnections="id-239b74667a8f4311a6d7055746c3aada" archimateElement="id-efe6aea293dd44d2ae3b48fe64aaf90a">
+            <bounds x="24" y="323" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8ab7673ce3d74d3c8a9548df50bd9e34" targetConnections="id-09fa2d4cb82f47da94865e0f7dc9412e" archimateElement="id-50c2c4062c5146cc96debf6a9949f164">
+            <bounds x="24" y="131" width="421" height="40"/>
+            <feature name="labelExpression" value="3.ดำเนินการวางแผนงบลงทุนประจำปี และของบค่าใช้จ่าย ก่อสร้างปรับปรุงเพิ่ม&#xD;&#xA;ประสิทธิภาพและงานย้ายแนวระบบจำหน่ายฯตลอดจนการปิดงานก่อสร้างทางเทคนิค (TECO)และสรุปรายงานผลการดำเนินงาน จัดทำแผนความต้องการพัสดุประจำปี&#xD;&#xA;(Dummy Project) สำหรับงานก่อสร้างฯตามงบงาน/โครงการฯที่รับผิดชอบ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-c67eb13f1c8d4babbc1551db5014bb73" targetConnections="id-bdfbc5f1e3594139867c67e6251ce683" archimateElement="id-c227fb4d133242fbb5fef665ca413da7">
+            <bounds x="24" y="228" width="421" height="41"/>
+            <feature name="labelExpression" value="5.สำรวจดูแลความมั่นคงระบบจำหน่าย สายส่ง และตรวจสอบระดับแรงดันไฟฟ้าให้ได้ตาม&#xD;&#xA;มาตรฐานการจ่ายไฟ และ ตรวจสอบดูแลความต้องการใช้ไฟฟ้า&#xD;&#xA;"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a1e3242846de4baca1c79f1b151df98d" targetConnections="id-c2b963a4c00043caa7ac372793ebf0b5" archimateElement="id-6160bc9a4c3e40b2acd30dd4393c06cb">
+            <bounds x="24" y="83" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5c1c5994d15a4ff18751ddad641c2c9e" targetConnections="id-bd89a36da80e45b19f8c24cf9af464d0" archimateElement="id-5a18df8bddf04dc6b47922fa45b9c9b5">
+            <bounds x="24" y="276" width="421" height="40"/>
+            <feature name="labelExpression" value="6. ให้บริการหลังการขายอื่น ๆ สำหรับลูกค้าเช่น การให้เช่าเครื่องกำเนิดไฟฟ้า บริการให้&#xD;&#xA;เช่าฉนวนครอบสายไฟฟ้า ต่อกลับการใช้ไฟฟ้าจากการถูกงดจ่ายไฟ(นอกเวลาราชการ)&#xD;&#xA;บำรุงรักษาระบบไฟฟ้า"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5fc10c4620d24be29d657a7b69cf41cf" targetConnections="id-0ebe16f41897484f84ce7d9724422889" archimateElement="id-1daa9ded98ee46249bab4ed6cc6d87c6">
+            <bounds x="24" y="372" width="421" height="40"/>
+            <feature name="labelExpression" value="8.ติดตั้งเครื่องกำเนิดไฟฟ้าสำรองในงานพิธีและกรณีต่าง ๆ และวิเคราะห์ประสิทธิภาพการ&#xD;&#xA;เดินเครื่องกำเนิดไฟฟ้า ตลอดจนการควบคุมดูแลบำรุงรักษาเครื่องกำเนิดไฟฟ้าสำรองและ&#xD;&#xA;ระบบผลิต"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2f69795e9a3e45aca179b01f11affcd3" targetConnections="id-9e65892f31f148e780913f5d6717497f" archimateElement="id-7dbfe470b15a446cb1c372758e452be6">
+            <bounds x="24" y="423" width="421" height="41"/>
+            <feature name="labelExpression" value="9.ควบคุมระบบดัชนีหม้อแปลง จัดทำความต้องการหม้อแปลง คาปาซิเตอร์ (งบลงทุนและงบทำการ กรณีแทนชำรุดให้จัดทำใบขอเสนอซื้อ PR)"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0a4196d9c5f341ea8339f7f52944eb55" targetConnections="id-818a1bbfa6f04653bbf92f13588ff1be" archimateElement="id-ab1e21e1d734428baf2896e623fc3d9f">
+            <bounds x="24" y="471" width="421" height="40"/>
+            <feature name="labelExpression" value="10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัด&#xD;&#xA;โหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของ&#xD;&#xA;ผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5dcbb5862d094c16b4c3240fdd048c24" targetConnections="id-77562e6f47644580904211df6f520afd" archimateElement="id-3c1d41bd2cd143cd961e2fb62a299e07">
+            <bounds x="24" y="519" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-ac726fe1cbc9438a9a16e019fa348866" targetConnections="id-91208de846b647f89e31d69a5171da51" archimateElement="id-9412f64b2c7541859ff33199b24d38e7">
+            <bounds x="24" y="567" width="421" height="40"/>
+            <feature name="labelExpression" value="12.สร้าง/ปรับปรุง และบันทึกข้อมูลระบบไฟฟ้าโดยใช้ Application ระบบ GIS และ Post&#xD;&#xA;ข้อมูล GIS (Attribute) ที่ปรับปรุงแล้วเช้าสู่ฐานข้อมูลระบบ GIS และการวิเคราะห์ติดตาม&#xD;&#xA;ประเมินผล การสร้าง/ปรับปรุงและบันทึก ฐานข้อมูลระบบ GIS"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-17eb4570cb784eec9dcc92675149690f" targetConnections="id-45ae18fddad8412db0d4c321d5ad8d36" archimateElement="id-ce447f15ea254a4cb08749e01758c938">
+            <bounds x="480" y="35" width="421" height="41"/>
+            <feature name="labelExpression" value="13.ควบคุมดูแลระบบสื่อสารของ กฟภ. การอนุญาตการตรวจนับ การพาดสายสื่อสาร&#xD;&#xA;โทรคมนาคมกับเสาไฟฟ้าของ กฟภ. และสำรวจ ออกแบบ ประมาณการค่าใช้จ่ายปรับปรุง&#xD;&#xA;ระบบไฟฟ้าให้รองรับการพาดสายสื่อสารโทรคมนาคม"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9f9b41167a56472485efb44fe9092b88" targetConnections="id-537e259850c14b62869f45ce3ccddb05" archimateElement="id-2c7e4fa823c0413e952550177a940874">
+            <bounds x="480" y="83" width="421" height="40"/>
+            <feature name="labelExpression" value="14. งานตามที่ผู้บังคับบัญชามอบหมาย"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9878bc9d962d4d39a08cbc7a69696954" targetConnections="id-7673d1c736ef4187baebcb1738bc319e" archimateElement="id-75b787219979485192181ff6ce325000">
+            <bounds x="480" y="130" width="421" height="40"/>
+            <feature name="labelExpression" value="15.จัดการอยู่เวร รับแจ้งและสั่งการ และดำเนินการแก้ไขกระแสไฟฟ้า(ในลักษณะการอยู่&#xD;&#xA;เวรตามคำสั่ง ส.14หรือแบบกะ) พร้อมจัดทำใบรายการเรียกเก็บ ออกใบแจ้งหนี้ กรณีที่ไป&#xD;&#xA;ดำเนินการแก้ไขกระแสไฟฟ้าขัดข้องหลังมิเตอร์ของผู้ใช้ไฟ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-591fe707940a48eb82da0452703f1aa4" targetConnections="id-b934401e30ca433992c8860773321172" archimateElement="id-41289ff8baa149c2b3260e9a031650a5">
+            <bounds x="480" y="179" width="421" height="40"/>
+            <feature name="labelExpression" value="16.จัดทำฐานข้อมูล ควบคุมและประสานงาน การจ่ายไฟฟ้า และรวบรวมข้อมูลสถิติไฟฟ้า&#xD;&#xA;ขัดข้อง ประเมินค่าดัชนีความเชื่อถือได้&#xD;&#xA;"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-021ca7e845814580a3e5c2f9a6767dad" targetConnections="id-a08cc0c79b714fc9a025153631cb7c3c" archimateElement="id-8c487e619e2540158391279f40ff0bf4">
+            <bounds x="480" y="469" width="421" height="40"/>
+            <feature name="labelExpression" value="22.ประสานงานหน่วยเกี่ยวข้องในการควบคุมระบบไฟฟ้าสาธารณะ และดำเนินการด้าน&#xD;&#xA;ละเมิดระบบจำหน่ายทุกประเภท"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-8570f29995c84c17bf444b0b0b44dea8" targetConnections="id-fb6e9bf140fe40b285cab5a1f44a9316" archimateElement="id-6c086debcee44addacd3b402c73cdeec">
+            <bounds x="480" y="276" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7213dcdc0e6249d198e604694544b4fe" targetConnections="id-8f94fec2b36c4010b77b08f6b24eb3ee" archimateElement="id-aebce68a0371494480fb0c4e80af37ee">
+            <bounds x="480" y="372" width="421" height="40"/>
+            <feature name="labelExpression" value="20.วางแผนตรวจสอบบำรุงรักษาระบบไฟฟ้าและดำเนินการซ่อมบำรุงรักษา ตรวจสอบ&#xD;&#xA;บำรุงรักษาสายสื่อสาร Fiber Optic ของ กฟภ."/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-70ce637c76a44be29285b34adcc42b9b" targetConnections="id-1a23a5d72f154b6d9ec32a4d54b9d6ae" archimateElement="id-17289dbdbb6d46f3a6a66f506b178555">
+            <bounds x="480" y="228" width="421" height="41"/>
+            <feature name="labelExpression" value="17. วางแผนการจ่ายไฟฟ้า จัดทำ Single Line Diagram, Switching Diagramวิเคราะห์&#xD;&#xA;ปัญหาเกี่ยวกับการจ่ายไฟฟ้าและเสนอแนวทางการแก้ไข"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-6bf7dabb66bd409abcdaa0de6a21de90" targetConnections="id-f511be4c027847c6b025da114c0f6632" archimateElement="id-785b0ea2d1b045eb879aaae737e4af3b">
+            <bounds x="480" y="516" width="421" height="40"/>
+            <feature name="labelExpression" value="23.ทบทวนความต้องการใช้พัสดุสำรองคลังฯงานแก้กระแสไฟฟ้าขัดข้องและเบิก - จ่าย&#xD;&#xA;พัสดุงานแก้กระแสไฟฟ้าขัดข้อง"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b16dfb8d180f498c90ec0421bfdd3da9" targetConnections="id-e320d26f907b4540b93764d8659efdf7" archimateElement="id-54131c7f33554b6d8bf2b6fbe46c57f6">
+            <bounds x="480" y="421" width="421" height="41"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b3ad03ebbc8b450bbfa354b8228060b3" targetConnections="id-bf43f8048bd447f5aee0e884a02e883f" archimateElement="id-e45f9ee8b0264292badd18938ff92276">
+            <bounds x="480" y="324" width="421" height="40"/>
+            <feature name="labelExpression" value="19. สำรวจ ออกแบบ ติดตั้งอุปกรณ์ป้องกันตัดตอน/คาปาซิเตอร์แรงสูง ตรวจสอบติดตาม&#xD;&#xA;Line Coordination การวิเคราะห์Load Flowฯ และการวิเคราะห์หน่วยสูญเสียในระบบ&#xD;&#xA;ไฟฟ้า"/>
+          </child>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="18-JD-prv8-AS" id="id-b86b9b8422db4d698f6e267da11e00ee">
+        <child xsi:type="archimate:DiagramObject" id="id-0f58252dd45842d68fc52db0d403fb22" fillColor="#ffffe6" archimateElement="id-b430ac9fc73d4f8e801d2878a753f62e">
+          <bounds x="36" y="24" width="937" height="541"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8ab8543039b347f6b401644ca55dd5bb" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-2a7e9fe21a0b43ed989d7e9e37550fc5" archimateRelationship="id-5f72aa1bb6814f3aa27e2713160ac866"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-29aa2908f33f49978c6a05358c9c7759" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-80d8da0dfa4d4890b8fa8487ad19e686" archimateRelationship="id-9d9f80a6f23e4710922ed3d616458fec"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3485e5a1061b45fe868b0ed69be4f671" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-80cd9b0b1b064d3bba02cee4b36499eb" archimateRelationship="id-e668ef6020c541a6b079d49f90cac760"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-3074de6913574f5fb3acb35efc7e9f60" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-84edc21386bd412abc4a2ab35798a0d4" archimateRelationship="id-ac952563a96e4cc4be91018940316cd6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5ec3b67c527848adbb8e1b1756cdec8f" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-14744887f779471e8f8e66bfe49b4930" archimateRelationship="id-615dbc7894cf463287d7da4ecc80d42e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8bc50006c26448e38b850ecc12e06b36" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-5aedcc48de774d9f84aeb481e2d86208" archimateRelationship="id-38fe55b1b9f443cca84f18dbbf2ae742"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a96bfc98ed304dc8888a376f72ef98f0" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-b6fded5bba2b42bcbfc63e9aef905c22" archimateRelationship="id-755ed976b4854954a3dab7e6d20b3ded"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-701b83265ee340f7b6cb4628e76ac274" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-335be3e1b9e647878a5bdddb718c5d06" archimateRelationship="id-d8f5e633e00d49c59b57e5573e22e2f4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-523951146d704109abb7bb91823c7a2d" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-83fead9cf5d54b0ca68e37059d0dae80" archimateRelationship="id-414c88b40a404b97b3001b8ce0976ce2"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b2fbb1b5f6a04e8fad4cca4064529f2f" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-9f7fd41421224346a272e012f8833d1a" archimateRelationship="id-dfe28b29608b45c38c9e4dfa2ea37e7e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6c1408cab4a84471a6babd73d684fd57" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-41d55dc5463841d9bfaeb296c1952ef5" archimateRelationship="id-22f3f51ebd244d219f71dff896eff7c0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-eea8433233fd4bc2b00c858b27324c31" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-4e3742628c084570b9ccf75ee46b4737" archimateRelationship="id-750fbfa2bcd64b32b5cd1dab507e4875"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-2f5f10bb51a04acb8f1173326d7f3e28" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-d2d4c4f519df4583a9eef2cf01de3c87" archimateRelationship="id-74fdcd2722f8490a8e0e529ca9142622"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-059a557bf58b4f6ba999e67f1730ca3a" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-49a9257ecca046db8e3e5d28053176f2" archimateRelationship="id-84fd7e52cd354d198b76d545a09d42a4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a630b8c953f84181aa4de911bb46d62e" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-d25a1b59046c4c49a2a4465089eee7d7" archimateRelationship="id-11bfb9bb53a74a82a936b98bd2cea564"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a6f0615f9b7549b6b48136e7defe73a2" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-37ff383844c743058f3ec1325cf19032" archimateRelationship="id-ef61468c179b41dbb9dccb361b2568c4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f6a7168f672d47b49b80896952daead8" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-2eeea82144ff424bbebfb3dba95ae2d5" archimateRelationship="id-c2712ebfe2f946458fce1314d6488bb6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-9e7019f534a74b67a6234205cb2bc79d" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-1b75dbbf94a44b9e82356c3cd0dc4b60" archimateRelationship="id-ff4141c1a22e4c76b2a6a9a88492a0f8"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-be6232dfbaaf47248e49cd564d525d4d" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-cdc542ba6ec94b779103f4b59a2b403b" archimateRelationship="id-3a489f55eda242cb8d8ae9bcf0a28647"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-0210dad31b22406bbe1e4f5e1e2d1a3b" source="id-0f58252dd45842d68fc52db0d403fb22" target="id-4217839f7206403e9578b96014b087b7" archimateRelationship="id-afd9e09576f843328c36e01a842b8c5b"/>
+          <child xsi:type="archimate:DiagramObject" id="id-49a9257ecca046db8e3e5d28053176f2" targetConnections="id-059a557bf58b4f6ba999e67f1730ca3a" archimateElement="id-ff95dd836eed428985e363e879ee0d1c">
+            <bounds x="24" y="35" width="421" height="41"/>
+            <feature name="labelExpression" value="1.1) รวบรวมประมาณการความต้องการพัสดุทุกงบ ทุกโครงการ สำหรับแผนจัดหา&#xD;&#xA;พัสดุประจำปี ของ กฟฟ.ต่าง ๆ ในสังกัด"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4217839f7206403e9578b96014b087b7" targetConnections="id-0210dad31b22406bbe1e4f5e1e2d1a3b" archimateElement="id-771462cba73a48baad261bc5aec6b2ac">
+            <bounds x="24" y="179" width="421" height="40"/>
+            <feature name="labelExpression" value="1.4) รวบรวมและวิเคราะห์ข้อมูลการรับ - จ่ายพัสดุเข้างานบริการและงานแก้ไข&#xD;&#xA;กระแสไฟฟ้าขัดข้อง ด้านDemand และ Supply เพื่อใช้บริหารจัดการจุดสั่งซื้อ&#xD;&#xA;(Reorder Point), ปริมาณจุดต่ำสุด (Min.) และสูงสุด (Max.) ของพัสดุแต่ละรายการ&#xD;&#xA;แบบเติมเต็ม เพื่อขอปรับปรุงทบทวนปริมาณสำรองคลัง"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-84edc21386bd412abc4a2ab35798a0d4" targetConnections="id-3074de6913574f5fb3acb35efc7e9f60" archimateElement="id-f27ff34b980a406a86855fc044d61dea">
+            <bounds x="24" y="323" width="421" height="40"/>
+            <feature name="labelExpression" value="2.2) บันทึกการโอนพัสดุสำรองใช้งานให้กับคลังย่อยในสังกัด และโอนพัสดุต่าง กฟฟ.&#xD;&#xA;และจ่ายพัสดุเข้างานต่าง ๆ ให้เป็นปัจจุบัน และดำเนินการจำหน่ายพัสดุออกจากบัญชี&#xD;&#xA;ตามระเบียบ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-80d8da0dfa4d4890b8fa8487ad19e686" targetConnections="id-29aa2908f33f49978c6a05358c9c7759" archimateElement="id-71ac5b9d0dea49519b9005cb9b240955">
+            <bounds x="24" y="131" width="421" height="40"/>
+            <feature name="labelExpression" value="1.3) รวบรวมและวิเคราะห์ข้อมูลความต้องการพัสดุ (Demand) ของงานโครงการตาม&#xD;&#xA;แผนงานก่อสร้างและงานซ่อมแซมและบำรุงรักษา ทั้งด้าน Demand และ Supply เพื่อ&#xD;&#xA;พิจารณาจัดทำบันทึกขออนุมัติโอนพัสดุ หรือ จัดทำใบขอเสนอซื้อ (PR) กรณีเกิดสภาวะ&#xD;&#xA;ขาดแคลน"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d2d4c4f519df4583a9eef2cf01de3c87" targetConnections="id-2f5f10bb51a04acb8f1173326d7f3e28" archimateElement="id-d38b62d2e6b44a629be293f209b30618">
+            <bounds x="24" y="228" width="421" height="41"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cdc542ba6ec94b779103f4b59a2b403b" targetConnections="id-be6232dfbaaf47248e49cd564d525d4d" archimateElement="id-5d81a38970074c51871420904febf1b2">
+            <bounds x="24" y="83" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-4e3742628c084570b9ccf75ee46b4737" targetConnections="id-eea8433233fd4bc2b00c858b27324c31" archimateElement="id-69f9a4abf37d460a93b9380ba853c911">
+            <bounds x="24" y="276" width="421" height="40"/>
+            <feature name="labelExpression" value="2.1) รับพัสดุจากการจัดสรร, จัดซื้อ, เหลือจากงานก่อสร้าง รวมถึงพัสดุรื้อถอน และ&#xD;&#xA;บันทึกข้อมูลในระบบ, พิมพ์และติดตั้ง Barcode ตามมาตรฐานที่ กฟภ. กำหนด และ&#xD;&#xA;พิจารณาการจัดวางพัสดุที่ได้รับการจัดสรร และพัสดุที่ได้รับจากการจัดซื้อให้เหมาะสมกับ&#xD;&#xA;สถานที่ และพัสดุแต่ละประเภท"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-335be3e1b9e647878a5bdddb718c5d06" targetConnections="id-701b83265ee340f7b6cb4628e76ac274" archimateElement="id-c2f845d8f0934bad8049b740d49cfe0a">
+            <bounds x="24" y="372" width="421" height="40"/>
+            <feature name="labelExpression" value="2.3) งานควบคุม, ตรวจสอบพัสดุคงคลัง, พัสดุระหว่างทาง (Stock Transport Order)&#xD;&#xA;และสนับสนุนการควบคุมพัสดุคงคลัง"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-1b75dbbf94a44b9e82356c3cd0dc4b60" targetConnections="id-9e7019f534a74b67a6234205cb2bc79d" archimateElement="id-a1837643382b4e148d1cdfaf005223b0">
+            <bounds x="24" y="423" width="421" height="41"/>
+            <feature name="labelExpression" value="2.4) วิเคราะห์ข้อมูลและจัดทำรายงานสนับสนุนการตัดสินใจของผู้บริหาร เช่น อัตรา&#xD;&#xA;หมุนเวียนพัสดุ (Turn Over Ratio) ยอดจ่ายพัสดุแยกตามโครงการ, ยอดจ่ายพัสดุแยก&#xD;&#xA;ตามสถานที่จัดเก็บ, ยอดจ่ายพัสดุตามแผนงานโครงการ/งานบริการ/งานบำรุงรักษา,&#xD;&#xA;พัสดุที่ไม่เคลื่อนไหว (Non Moving) หรือเคลื่อนไหวช้า(Slow Moving), งานนำเสนอ&#xD;&#xA;เพิ่ม-ลดระดับพัสดุสำรอง (Min-Max) เป็นต้น"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-14744887f779471e8f8e66bfe49b4930" targetConnections="id-5ec3b67c527848adbb8e1b1756cdec8f" archimateElement="id-d6ab2f7719774f07bbe922bee9545364">
+            <bounds x="24" y="471" width="421" height="40"/>
+            <feature name="labelExpression" value="2.4) วิเคราะห์ข้อมูลและจัดทำรายงานสนับสนุนการตัดสินใจของผู้บริหาร เช่น อัตรา&#xD;&#xA;หมุนเวียนพัสดุ (Turn Over Ratio) ยอดจ่ายพัสดุแยกตามโครงการ, ยอดจ่ายพัสดุแยก&#xD;&#xA;ตามสถานที่จัดเก็บ, ยอดจ่ายพัสดุตามแผนงานโครงการ/งานบริการ/งานบำรุงรักษา,&#xD;&#xA;พัสดุที่ไม่เคลื่อนไหว (Non Moving) หรือเคลื่อนไหวช้า(Slow Moving), งานนำเสนอ&#xD;&#xA;เพิ่ม-ลดระดับพัสดุสำรอง (Min-Max) เป็นต้น"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-41d55dc5463841d9bfaeb296c1952ef5" targetConnections="id-6c1408cab4a84471a6babd73d684fd57" archimateElement="id-415c0d31474f44f280560b2bb045b7d7">
+            <bounds x="478" y="36" width="421" height="40"/>
+            <feature name="labelExpression" value="3.1) จัดทำขออนุมัติในหลักการจัดซื้อพัสดุสำรองคลัง และพัสดุขาดแคลนที่จำเป็นตาม&#xD;&#xA;หลักเกณฑ์ที่กำหนดภายในวงเงินงบประมาณที่ได้รับ บันทึกข้อมูลใบขอเสนอซื้อ (PR)&#xD;&#xA;และแจ้งหน่วยงานที่ทำหน้าที่จัดซื้อดำเนินการ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9f7fd41421224346a272e012f8833d1a" targetConnections="id-b2fbb1b5f6a04e8fad4cca4064529f2f" archimateElement="id-4507edd326164f45b9c2681d07e37bc1">
+            <bounds x="478" y="84" width="421" height="40"/>
+            <feature name="labelExpression" value="3.2) ค้นหาข้อมูลคุณสมบัติเฉพาะพัสดุ (Specification) ที่เป็นปัจจุบัน จากหน่วยงาน&#xD;&#xA;ที่เกี่ยวข้อง"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-d25a1b59046c4c49a2a4465089eee7d7" targetConnections="id-a630b8c953f84181aa4de911bb46d62e" archimateElement="id-c22cc06053d841eeaefedad73b8cbab6">
+            <bounds x="478" y="134" width="421" height="41"/>
+            <feature name="labelExpression" value="3.3) ค้นหาข้อมูลราคากลาง/ราคาอ้างอิง ที่เป็นปัจจุบัน จากหน่วยงานที่เกี่ยวข้อง&#xD;&#xA;"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-80cd9b0b1b064d3bba02cee4b36499eb" targetConnections="id-3485e5a1061b45fe868b0ed69be4f671" archimateElement="id-7f5e2b71016048099e92ca4ff5178c22">
+            <bounds x="478" y="182" width="421" height="40"/>
+            <feature name="labelExpression" value="4.1) งานสอบทานความถูกต้องของข้อมูลการเคลื่อนไหวรับ-จ่ายพัสดุรายวัน"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-37ff383844c743058f3ec1325cf19032" targetConnections="id-a6f0615f9b7549b6b48136e7defe73a2" archimateElement="id-f12675f2bafb4c289ce5f27928a2aac5">
+            <bounds x="478" y="229" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-b6fded5bba2b42bcbfc63e9aef905c22" targetConnections="id-a96bfc98ed304dc8888a376f72ef98f0" archimateElement="id-3c9d61f71a464052a018f525d640de47">
+            <bounds x="478" y="278" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-83fead9cf5d54b0ca68e37059d0dae80" targetConnections="id-523951146d704109abb7bb91823c7a2d" archimateElement="id-d9dc5999e6454f23af9bf909704c4f77">
+            <bounds x="478" y="375" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2a7e9fe21a0b43ed989d7e9e37550fc5" targetConnections="id-8ab8543039b347f6b401644ca55dd5bb" archimateElement="id-743dd08e941848deaf9c94dfcf9053df">
+            <bounds x="478" y="471" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2eeea82144ff424bbebfb3dba95ae2d5" targetConnections="id-f6a7168f672d47b49b80896952daead8" archimateElement="id-4d5fae49464d4a91908e3f2e64209263">
+            <bounds x="478" y="327" width="421" height="41"/>
+            <feature name="labelExpression" value="4.4) ตรวจสอบการยกเลิกรายการรับ-จ่ายพัสดุ ภายใต้สถานที่จัดเก็บทุกแห่งในสังกัด"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5aedcc48de774d9f84aeb481e2d86208" targetConnections="id-8bc50006c26448e38b850ecc12e06b36" archimateElement="id-7dbf716f6aa24a31abc7297c85bbb770">
+            <bounds x="478" y="423" width="421" height="40"/>
+          </child>
+        </child>
+      </element>
+      <element xsi:type="archimate:ArchimateDiagramModel" name="19-JD-prv7-OP" id="id-33567733e6254473bedc7ea9894a4c22">
+        <child xsi:type="archimate:DiagramObject" id="id-ceb0e518e08f4e6ab7b73cef273c3ca4" fillColor="#ffffe6" archimateElement="id-83fcc83e89c84b47b5e5023f2d2da1f8">
+          <bounds x="36" y="24" width="937" height="625"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-1b7a09cae9f64e62852e28eb644fa180" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-33f230cb733e4fdcaeb3f7526512db72" archimateRelationship="id-f09d44a99ac74c2981c12260b600271a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-25528332076e4b56820dc1f1f4100e33" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-7a7becf7c7c342f7b43c16483875c60e" archimateRelationship="id-e575b49dc836486084afd636e7171381"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-e9ee0518ebec454eb77f746e929a756b" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-5951bbfe685245c4a879c4e5d48df11d" archimateRelationship="id-ed85e237b16447c7a3ac40500c514f74"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-459488c775394039bc4b8270d420b1c5" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-31b23e89bc164eaea1837002409e717d" archimateRelationship="id-6fc7b254a85549b4a77d741706e9203d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5b41de70a2924d2483771f52ebf712c2" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-67461086b8884439995c63f533db2f88" archimateRelationship="id-32a2dd73803d48f0a9acd7647c238164"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-a88852418a5b4130b35f37ef6b642bba" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-615d6e019a4048cab3752def699f4bd1" archimateRelationship="id-2e45089419c547cb9cbfde7b09c46f1a"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-f58bdc2707d84392a425d29ce4797d7e" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-30ec34aeede04ccd8cad66be70e4b8a4" archimateRelationship="id-524f0a38c60647e1ac45f42e66ff4054"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-db52133fc3934b7f93df65326dd1988f" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-3a68aa4284304baebe9e2d1a5d01aedf" archimateRelationship="id-fa963b1ef1af463dbf3c2beddf5eeed6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-7d32818ed57d4e1db0395e222c0e0ef7" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-763209a680d64d169f0b9bf60b41eaa7" archimateRelationship="id-bf017ed0adbb45e09b7ade76f8fe85f1"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b92e1875b15942428468cbc6d4004f63" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-cfa643375f074def920cb08a98072971" archimateRelationship="id-c32919b8c8a847eab6e536fe4e82a766"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-d89791cce1fb48fd995eebbc81380543" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-2bda3deb80b44d5dbf5c2ab1132b555b" archimateRelationship="id-a28c6888388049b0b38280573ff1fd6e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-8f59aa1dd01d4044aca8360e48c2d1ba" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-a5cd7ded58d84029a989868e32433513" archimateRelationship="id-990d4ef4f0114efdabd4523a0ed7ae74"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-6904de5746b949d6ab3e4da4fc04b6a6" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-787be36e839f40e495c314ee51276a1a" archimateRelationship="id-d78960e8d4eb4781af09939c6e5c5aa5"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-701fce0d26e64a4aabda93a4d7bf70af" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-7645523eb42943f7ad2378f3bef884f3" archimateRelationship="id-463e8da633fc4131a95320b2c1f8d693"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-5f97429caa4a4305aade50af6fabe026" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-e3cec70973cd4a9bb0482f9e2e1d7e0f" archimateRelationship="id-3c74341307b84781ab8b4dc9e0bb90f7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c9f147b2923841f2898acf62ee9fb354" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-9acc6a0cbae9429b80ebb956fef637a4" archimateRelationship="id-f1929cc7c29e461ea456f80b131b8bc0"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-65976e9dc6bb47f29393f19ed33766c4" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-af2dcd76449f4918b2b2d42ac289e9d4" archimateRelationship="id-8cf7cbce0a6c41f788b3d6cd99f542f6"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b18b7cd5df8d4615ba966210f86bacf7" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-37f0fee4e689469c85980edf5ec93268" archimateRelationship="id-fe5116f7346649b7a605ef672ff6f9c7"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-381fe8c68fe240e795c0e130054ef131" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-bee9184859a642ff87484fc21c27cfd9" archimateRelationship="id-431ce4833758465b93d46aba3aab2d3e"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b47c26fbf42543d9855402d749e9820e" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-90512ea7e1a144b2a2d2cdf633fe2424" archimateRelationship="id-ac721ff651c34898a47d40fe1ca39f5d"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-c61e796bc595405da684c7aab997ca49" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-e9e243e732584baba4a1a7bd56f68e57" archimateRelationship="id-bbaf90a9b3f44734a615ab93e589ea42"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-ae76f95417aa4e8cb060693c3200bc7d" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-0312f3776af74c2893e249215d49b6d6" archimateRelationship="id-58f2b9c581134f479c3ffbee5e2c0fa4"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-040be550b135488fa27acde0d0e75273" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-5d8dd95bf10d499aa931cd879483be8b" archimateRelationship="id-970af577e58d4ddfb89e32692625a264"/>
+          <sourceConnection xsi:type="archimate:Connection" id="id-b985176406cc4c47a8ee4191411a8dcd" source="id-ceb0e518e08f4e6ab7b73cef273c3ca4" target="id-883c1be652bb4454a7d95d79930a2391" archimateRelationship="id-84537bb1664e4b76826ca1665127fe8c"/>
+          <child xsi:type="archimate:DiagramObject" id="id-90512ea7e1a144b2a2d2cdf633fe2424" targetConnections="id-b47c26fbf42543d9855402d749e9820e" archimateElement="id-b2d96c8848d1421f9e47ffb5d6b66c91">
+            <bounds x="24" y="35" width="421" height="41"/>
+            <feature name="labelExpression" value="1.จัดทำแผนงานปรับปรุงระบบไฟฟ้า สำรวจ ออกแบบ ประมาณการค่าใช้จ่ายงานก่อสร้าง&#xD;&#xA;ปรับปรุง ซ่อมแซมบำรุงรักษาระบบไฟฟ้า สำหรับงานปรับปรุงเพิ่มประสิทธิภาพ และงาน&#xD;&#xA;ย้ายแนว ระบบจำหน่ายฯ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-3a68aa4284304baebe9e2d1a5d01aedf" targetConnections="id-db52133fc3934b7f93df65326dd1988f" archimateElement="id-f243f90e062b407e9f7cd2368adcf6a4">
+            <bounds x="24" y="179" width="421" height="40"/>
+            <feature name="labelExpression" value="4.ควบคุมการปฏิบัติงานฮอทไลน์ แก้ไขปัญหาการจ่ายไฟฟ้า กรณีฉุกเฉิน การติดตั้ง&#xD;&#xA;ซ่อมแซม บำรุงรักษาระบบไฟฟ้าโดยไม่ดับไฟ และการควบคุม ดูแล บำรุงรักษาเครื่องมือ&#xD;&#xA;ฮอทไลน"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-787be36e839f40e495c314ee51276a1a" targetConnections="id-6904de5746b949d6ab3e4da4fc04b6a6" archimateElement="id-804a6bc6c1714a0f8b6a9e7a6952a914">
+            <bounds x="23" y="374" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-cfa643375f074def920cb08a98072971" targetConnections="id-b92e1875b15942428468cbc6d4004f63" archimateElement="id-57527c23515b48c1a074f790f7a230cf">
+            <bounds x="24" y="131" width="421" height="40"/>
+            <feature name="labelExpression" value="3.ดำเนินการวางแผนงบลงทุนประจำปี และของบค่าใช้จ่าย ก่อสร้างปรับปรุงเพิ่ม&#xD;&#xA;ประสิทธิภาพและงานย้ายแนวระบบจำหน่ายฯตลอดจนการปิดงานก่อสร้างทางเทคนิค (TECO)และสรุปรายงานผลการดำเนินงาน จัดทำแผนความต้องการพัสดุประจำปี&#xD;&#xA;(Dummy Project) สำหรับงานก่อสร้างฯตามงบงาน/โครงการฯที่รับผิดชอบ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-615d6e019a4048cab3752def699f4bd1" targetConnections="id-a88852418a5b4130b35f37ef6b642bba" archimateElement="id-d855ff5efb364899a7a109657d2f7851">
+            <bounds x="24" y="228" width="421" height="41"/>
+            <feature name="labelExpression" value="5.สำรวจดูแลความมั่นคงระบบจำหน่าย สายส่ง และตรวจสอบระดับแรงดันไฟฟ้าให้ได้ตาม&#xD;&#xA;มาตรฐานการจ่ายไฟ และ ตรวจสอบดูแลความต้องการใช้ไฟฟ้า&#xD;&#xA;"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-30ec34aeede04ccd8cad66be70e4b8a4" targetConnections="id-f58bdc2707d84392a425d29ce4797d7e" archimateElement="id-098b2a67128e41d6bc7dae06c0744b5e">
+            <bounds x="24" y="83" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-37f0fee4e689469c85980edf5ec93268" targetConnections="id-b18b7cd5df8d4615ba966210f86bacf7" archimateElement="id-2dd9563e6cfd4a1f8c205bc6160c1408">
+            <bounds x="24" y="328" width="421" height="40"/>
+            <feature name="labelExpression" value="7. ให้บริการหลังการขายอื่น ๆ สำหรับลูกค้าเช่น การให้เช่าเครื่องกำเนิดไฟฟ้า บริการให้&#xD;&#xA;เช่าฉนวนครอบสายไฟฟ้า ต่อกลับการใช้ไฟฟ้าจากการถูกงดจ่ายไฟ(นอกเวลาราชการ)&#xD;&#xA;บำรุงรักษาระบบไฟฟ้า"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7645523eb42943f7ad2378f3bef884f3" targetConnections="id-701fce0d26e64a4aabda93a4d7bf70af" archimateElement="id-4f03774768b648f6948afd1bcd9dfa6c">
+            <bounds x="24" y="419" width="421" height="40"/>
+            <feature name="labelExpression" value="9.ติดตั้งเครื่องกำเนิดไฟฟ้าสำรองในงานพิธีและกรณีต่าง ๆ และวิเคราะห์ประสิทธิภาพการ&#xD;&#xA;เดินเครื่องกำเนิดไฟฟ้า ตลอดจนการควบคุมดูแลบำรุงรักษาเครื่องกำเนิดไฟฟ้าสำรองและ&#xD;&#xA;ระบบผลิต"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5951bbfe685245c4a879c4e5d48df11d" targetConnections="id-e9ee0518ebec454eb77f746e929a756b" archimateElement="id-b7fe5d3557a94e62a360902e66078b2e">
+            <bounds x="24" y="470" width="421" height="41"/>
+            <feature name="labelExpression" value="9.ควบคุมระบบดัชนีหม้อแปลง จัดทำความต้องการหม้อแปลง คาปาซิเตอร์ (งบลงทุนและงบทำการ กรณีแทนชำรุดให้จัดทำใบขอเสนอซื้อ PR)"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-9acc6a0cbae9429b80ebb956fef637a4" targetConnections="id-c9f147b2923841f2898acf62ee9fb354" archimateElement="id-7836e068f884473c8365a2bd3c11d10c">
+            <bounds x="24" y="518" width="421" height="40"/>
+            <feature name="labelExpression" value="10. วางแผนตรวจสอบ บำรุงรักษาและจัดการงานบำรุงรักษาหม้อแปลง รวมถึงการวัด&#xD;&#xA;โหลดตามวาระสับเปลี่ยนหม้อแปลง และตั้งตั้ง รื้อถอน โยกย้ายสับเปลี่ยนหม้อแปลงของ&#xD;&#xA;ผู้ใช้ไฟหรืองานให้เช่าหม้อแปลงไฟฟ้า ฯ กรณีหม้อแปลงชำรุด"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-2bda3deb80b44d5dbf5c2ab1132b555b" targetConnections="id-d89791cce1fb48fd995eebbc81380543" archimateElement="id-6bba7d39623a4ace97afb58b2627314b">
+            <bounds x="24" y="566" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e9e243e732584baba4a1a7bd56f68e57" targetConnections="id-c61e796bc595405da684c7aab997ca49" archimateElement="id-5da89a651f81449e96392e3b83ad49ad">
+            <bounds x="478" y="36" width="421" height="40"/>
+            <feature name="labelExpression" value="12.สร้าง/ปรับปรุง และบันทึกข้อมูลระบบไฟฟ้าโดยใช้ Application ระบบ GIS และ Post&#xD;&#xA;ข้อมูล GIS (Attribute) ที่ปรับปรุงแล้วเช้าสู่ฐานข้อมูลระบบ GIS และการวิเคราะห์ติดตาม&#xD;&#xA;ประเมินผล การสร้าง/ปรับปรุงและบันทึก ฐานข้อมูลระบบ GIS"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-af2dcd76449f4918b2b2d42ac289e9d4" targetConnections="id-65976e9dc6bb47f29393f19ed33766c4" archimateElement="id-74345bf013e3429b812272eea5e8d217">
+            <bounds x="478" y="87" width="421" height="41"/>
+            <feature name="labelExpression" value="13.ควบคุมดูแลระบบสื่อสารของ กฟภ. การอนุญาตการตรวจนับ การพาดสายสื่อสาร&#xD;&#xA;โทรคมนาคมกับเสาไฟฟ้าของ กฟภ. และสำรวจ ออกแบบ ประมาณการค่าใช้จ่ายปรับปรุง&#xD;&#xA;ระบบไฟฟ้าให้รองรับการพาดสายสื่อสารโทรคมนาคม"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-a5cd7ded58d84029a989868e32433513" targetConnections="id-8f59aa1dd01d4044aca8360e48c2d1ba" archimateElement="id-8ffba20d781d40aebd8f6b60a0037509">
+            <bounds x="478" y="135" width="421" height="40"/>
+            <feature name="labelExpression" value="14. งานตามที่ผู้บังคับบัญชามอบหมาย"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-5d8dd95bf10d499aa931cd879483be8b" targetConnections="id-040be550b135488fa27acde0d0e75273" archimateElement="id-f4a846a691964a6ea55938a56bb8db88">
+            <bounds x="478" y="182" width="421" height="40"/>
+            <feature name="labelExpression" value="15.จัดการอยู่เวร รับแจ้งและสั่งการ และดำเนินการแก้ไขกระแสไฟฟ้า(ในลักษณะการอยู่&#xD;&#xA;เวรตามคำสั่ง ส.14หรือแบบกะ) พร้อมจัดทำใบรายการเรียกเก็บ ออกใบแจ้งหนี้ กรณีที่ไป&#xD;&#xA;ดำเนินการแก้ไขกระแสไฟฟ้าขัดข้องหลังมิเตอร์ของผู้ใช้ไฟ"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-7a7becf7c7c342f7b43c16483875c60e" targetConnections="id-25528332076e4b56820dc1f1f4100e33" archimateElement="id-186d074e1af745d18f49c40836e49493">
+            <bounds x="478" y="231" width="421" height="40"/>
+            <feature name="labelExpression" value="16.จัดทำฐานข้อมูล ควบคุมและประสานงาน การจ่ายไฟฟ้า และรวบรวมข้อมูลสถิติไฟฟ้า&#xD;&#xA;ขัดข้อง ประเมินค่าดัชนีความเชื่อถือได้&#xD;&#xA;"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-0312f3776af74c2893e249215d49b6d6" targetConnections="id-ae76f95417aa4e8cb060693c3200bc7d" archimateElement="id-8097584f3cbe4e07a6ddef9dbc7bc2c4">
+            <bounds x="478" y="521" width="421" height="40"/>
+            <feature name="labelExpression" value="22.ประสานงานหน่วยเกี่ยวข้องในการควบคุมระบบไฟฟ้าสาธารณะ และดำเนินการด้าน&#xD;&#xA;ละเมิดระบบจำหน่ายทุกประเภท"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-31b23e89bc164eaea1837002409e717d" targetConnections="id-459488c775394039bc4b8270d420b1c5" archimateElement="id-fef2d20b9c834acfa1ac3a422de9e4c4">
+            <bounds x="478" y="328" width="421" height="40"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-67461086b8884439995c63f533db2f88" targetConnections="id-5b41de70a2924d2483771f52ebf712c2" archimateElement="id-846cdbc7650d4868bd975b3e4b8025ab">
+            <bounds x="478" y="424" width="421" height="40"/>
+            <feature name="labelExpression" value="20.วางแผนตรวจสอบบำรุงรักษาระบบไฟฟ้าและดำเนินการซ่อมบำรุงรักษา ตรวจสอบ&#xD;&#xA;บำรุงรักษาสายสื่อสาร Fiber Optic ของ กฟภ."/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-e3cec70973cd4a9bb0482f9e2e1d7e0f" targetConnections="id-5f97429caa4a4305aade50af6fabe026" archimateElement="id-325e3876a648446d844ea575920ece66">
+            <bounds x="478" y="280" width="421" height="41"/>
+            <feature name="labelExpression" value="17. วางแผนการจ่ายไฟฟ้า จัดทำ Single Line Diagram, Switching Diagramวิเคราะห์&#xD;&#xA;ปัญหาเกี่ยวกับการจ่ายไฟฟ้าและเสนอแนวทางการแก้ไข"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-bee9184859a642ff87484fc21c27cfd9" targetConnections="id-381fe8c68fe240e795c0e130054ef131" archimateElement="id-2beaea9cf384455d93844e5946dc3716">
+            <bounds x="478" y="568" width="421" height="40"/>
+            <feature name="labelExpression" value="23.ทบทวนความต้องการใช้พัสดุสำรองคลังฯงานแก้กระแสไฟฟ้าขัดข้องและเบิก - จ่าย&#xD;&#xA;พัสดุงานแก้กระแสไฟฟ้าขัดข้อง"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-763209a680d64d169f0b9bf60b41eaa7" targetConnections="id-7d32818ed57d4e1db0395e222c0e0ef7" archimateElement="id-e43f2603fffe405b89b9ddb7781dd959">
+            <bounds x="478" y="473" width="421" height="41"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-33f230cb733e4fdcaeb3f7526512db72" targetConnections="id-1b7a09cae9f64e62852e28eb644fa180" archimateElement="id-d59f6231183143faa13beb41dc45b65e">
+            <bounds x="478" y="376" width="421" height="40"/>
+            <feature name="labelExpression" value="19. สำรวจ ออกแบบ ติดตั้งอุปกรณ์ป้องกันตัดตอน/คาปาซิเตอร์แรงสูง ตรวจสอบติดตาม&#xD;&#xA;Line Coordination การวิเคราะห์Load Flowฯ และการวิเคราะห์หน่วยสูญเสียในระบบ&#xD;&#xA;ไฟฟ้า"/>
+          </child>
+          <child xsi:type="archimate:DiagramObject" id="id-883c1be652bb4454a7d95d79930a2391" targetConnections="id-b985176406cc4c47a8ee4191411a8dcd" archimateElement="id-57e7d5a38c604f14a5f1dfd2600f6669">
+            <bounds x="23" y="276" width="421" height="41"/>
+            <feature name="labelExpression" value="6. ตรวจสอบดูแลความต้องการใช้ไฟฟ้าและการวิเคราะห์แนะนำการใช้พลังงานไฟฟ้า&#xD;&#xA;อย่างมีประสิทธิภาพ"/>
           </child>
         </child>
       </element>
