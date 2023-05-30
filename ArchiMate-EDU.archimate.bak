@@ -888,7 +888,7 @@ Junction</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f1eaa69856ab4a0eb6829685cd22fa8c" font="1|Arial Narrow|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow" lineWidth="2" lineColor="#7f7f7f" textPosition="1" archimateElement="0f0f55fa-a583-4cf8-940c-69043191f3fa">
           <bounds x="209" y="378" width="118" height="61"/>
-          <feature name="labelExpression" value="ฟังก์ชันธุรกิจ&#xD;&#xA;${wordwrap:1:${name}}"/>
+          <feature name="labelExpression" value="ฟังก์ชั่นธุรกิจ&#xD;&#xA;${wordwrap:1:${name}}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-cc71858f567d4280aa9f104cf4004e3a" font="1|Arial Narrow|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow" lineWidth="2" lineColor="#7f7f7f" textPosition="1" archimateElement="c76290ee-701f-4fa4-9de6-36b53abb904a">
           <bounds x="209" y="304" width="118" height="61"/>
@@ -976,7 +976,7 @@ Junction</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-ee59eb15b726417da2a67925ac3e8012" font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial" lineWidth="2" lineColor="#7f7f7f" textPosition="1" archimateElement="4b0c7f33-bae0-495c-9572-176ae7ead16d">
           <bounds x="1206" y="304" width="111" height="78"/>
-          <feature name="labelExpression" value="ปฏิบัติการร่วม&#xD;&#xA;ทางเทคโนโลยี&#xD;&#xA;${wordwrap:1:${name}}"/>
+          <feature name="labelExpression" value="ปฏิบัตการร่วม&#xD;&#xA;ทางเทคโนโลยี&#xD;&#xA;${wordwrap:1:${name}}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-81c4234585e8430dbabc74d32f5850dc" font="1|Arial|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Arial" lineWidth="2" lineColor="#7f7f7f" textPosition="1" archimateElement="b53f98a4-620e-4605-8cf0-f71d2ed9ae04">
           <bounds x="1206" y="216" width="111" height="79"/>
@@ -1055,7 +1055,7 @@ Junction</content>
           <feature name="labelExpression" value="เป้าหมาย&#xD;&#xA;${wordwrap:1:${name}}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-f418bee2b2424568921e8084466d7190" font="1|Arial Narrow|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow" lineWidth="2" lineColor="#7f7f7f" textPosition="1" archimateElement="866bd3e5-cfe3-4538-ada1-9bb35a1bb377">
-          <bounds x="1572" y="59" width="131" height="56"/>
+          <bounds x="1586" y="64" width="117" height="51"/>
           <feature name="labelExpression" value="ผลผลิต/ผลลัพธ์&#xD;&#xA;${wordwrap:1:${name}}"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-25df86aad93a44bcbbdeb7348c448e2e" font="1|Arial Narrow|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow" lineWidth="2" lineColor="#7f7f7f" textPosition="1" archimateElement="f42f52b4-7f50-47cb-afcd-7a44c3bb35c9">
@@ -1096,7 +1096,7 @@ Junction</content>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-be7857fe6c53485cb4d0606f2196aef3" font="1|Arial Narrow|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow" lineWidth="2" lineColor="#7f7f7f" textPosition="1" archimateElement="6d8a0795-81c6-46ea-a41e-24efee037d6b">
           <bounds x="26" y="59" width="111" height="61"/>
-          <feature name="labelExpression" value="สภาพการณ์&#xD;&#xA;Plateau"/>
+          <feature name="labelExpression" value="ที่ราบสูง=สภาพการณ์&#xD;&#xA;Plateau"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4639f9bcf95c458e9a2d9927d570a305" font="1|Arial Narrow|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Arial Narrow" lineWidth="2" lineColor="#7f7f7f" textAlignment="1" textPosition="1" archimateElement="24e02852-a2b5-4a53-aec2-992e934817f6" type="1">
           <bounds x="1706" y="684" width="51" height="51"/>
